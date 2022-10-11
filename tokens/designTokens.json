@@ -669,56 +669,12 @@
       }
     }
   },
-  "radius": {
-    "--mds-core-border-radius-10": {
-      "value": "10",
-      "type": "borderRadius"
-    },
-    "--mds-core-border-radius-20": {
-      "value": "20",
-      "type": "borderRadius"
-    }
-  },
-  "spacing": {
-    "spacing-01": {
-      "value": "8",
-      "type": "spacing"
-    },
-    "spacing-02": {
-      "value": "16",
-      "type": "spacing"
-    },
-    "spacing-03": {
-      "value": "24",
-      "type": "spacing"
-    },
-    "spacing-04": {
-      "value": "32",
-      "type": "spacing"
-    },
-    "spacing-05": {
-      "value": "40",
-      "type": "spacing"
-    },
-    "spacing-06": {
-      "value": "48",
-      "type": "spacing"
-    },
-    "spacing-07": {
-      "value": "64",
-      "type": "spacing"
-    },
-    "spacing-08": {
-      "value": "80",
-      "type": "spacing"
-    }
-  },
+  "typography": {},
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
       "colors",
-      "radius",
-      "spacing"
+      "typography"
     ]
   }
 }
