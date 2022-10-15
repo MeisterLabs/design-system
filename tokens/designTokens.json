@@ -667,6 +667,14 @@
         "value": "linear-gradient(135deg, #ffd426 0%, #96db0b 100%)",
         "type": "color"
       }
+    },
+    "Sky": {
+      "value": "{Blue.Blue 000}",
+      "type": "color"
+    },
+    "Banana": {
+      "value": "{Yellow.Yellow 100}",
+      "type": "color"
     }
   },
   "typography": {
