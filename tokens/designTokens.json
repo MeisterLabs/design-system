@@ -599,81 +599,81 @@
     "fontFamily": {
       "web": {
         "value": "Avenir",
-        "type": "fontFamilies"
+        "type": "fontFamily"
       }
     },
     "lineHeight": {
       "xs": {
         "value": "17",
-        "type": "lineHeights"
+        "type": "lineHeight"
       },
       "s": {
         "value": "18",
-        "type": "lineHeights"
+        "type": "lineHeight"
       },
       "m": {
         "value": "22",
-        "type": "lineHeights"
+        "type": "lineHeight"
       },
       "l": {
         "value": "25",
-        "type": "lineHeights"
+        "type": "lineHeight"
       },
       "xl": {
         "value": "31",
-        "type": "lineHeights"
+        "type": "lineHeight"
       },
       "xxl": {
         "value": "44",
-        "type": "lineHeights"
+        "type": "lineHeight"
       },
       "xxxl": {
         "value": "70",
-        "type": "lineHeights"
+        "type": "lineHeight"
       }
     },
     "fontWeight": {
       "regular": {
         "value": "400",
-        "type": "fontWeights"
+        "type": "fontWeight"
       },
       "medium": {
         "value": "500",
-        "type": "fontWeights"
+        "type": "fontWeight"
       },
       "bold": {
         "value": "700",
-        "type": "fontWeights"
+        "type": "fontWeight"
       }
     },
     "fontSize": {
       "xs": {
         "value": "11",
-        "type": "fontSizes"
+        "type": "fontSize"
       },
       "s": {
         "value": "13",
-        "type": "fontSizes"
+        "type": "fontSize"
       },
       "m": {
         "value": "15",
-        "type": "fontSizes"
+        "type": "fontSize"
       },
       "l": {
         "value": "17",
-        "type": "fontSizes"
+        "type": "fontSize"
       },
       "xl": {
         "value": "21",
-        "type": "fontSizes"
+        "type": "fontSize"
       },
       "xxl": {
         "value": "34",
-        "type": "fontSizes"
+        "type": "fontSize"
       },
       "xxxl": {
         "value": "60",
-        "type": "fontSizes"
+        "type": "fontSize"
       }
     },
     "letterSpacing": {
