@@ -1039,11 +1039,13 @@
       }
     }
   },
+  "fontStyle": {},
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
       "colors",
-      "typography"
+      "typography",
+      "fontStyle"
     ]
   }
 }
