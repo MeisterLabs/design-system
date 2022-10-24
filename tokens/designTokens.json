@@ -696,6 +696,24 @@
         "type": "paragraphSpacing"
       }
     },
+    "textCase": {
+      "none": {
+        "value": "none",
+        "type": "textCase"
+      }
+    },
+    "textDecoration": {
+      "none": {
+        "value": "none",
+        "type": "textDecoration"
+      },
+      "underline": {
+        "value": "underline",
+        "type": "textDecoration"
+      }
+    }
+  },
+  "fontStyle": {
     "01xs": {
       "regular": {
         "value": {
@@ -1021,25 +1039,8 @@
         },
         "type": "typography"
       }
-    },
-    "textCase": {
-      "none": {
-        "value": "none",
-        "type": "textCase"
-      }
-    },
-    "textDecoration": {
-      "none": {
-        "value": "none",
-        "type": "textDecoration"
-      },
-      "underline": {
-        "value": "underline",
-        "type": "textDecoration"
-      }
     }
   },
-  "fontStyle": {},
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
