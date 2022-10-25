@@ -1,0 +1,32 @@
+/**
+ * Do not edit directly
+ * Generated on Tue, 25 Oct 2022 16:24:44 GMT
+ */
+
+:root {
+  --typography-text-decoration-underline: underline;
+  --typography-text-decoration-none: none;
+  --typography-text-case-none: none;
+  --typography-paragraph-spacing-normal: 0;
+  --typography-letter-spacing-smaller: -1.5%;
+  --typography-letter-spacing-small: -1%;
+  --typography-letter-spacing-normal: 0%;
+  --typography-font-size-xxxl: 60px;
+  --typography-font-size-xxl: 34px;
+  --typography-font-size-xl: 21px;
+  --typography-font-size-l: 17px;
+  --typography-font-size-m: 15px;
+  --typography-font-size-s: 13px;
+  --typography-font-size-xs: 11px;
+  --typography-font-weight-bold: 700;
+  --typography-font-weight-medium: 500;
+  --typography-font-weight-regular: 400;
+  --typography-line-height-xxxl: 70px;
+  --typography-line-height-xxl: 44px;
+  --typography-line-height-xl: 31px;
+  --typography-line-height-l: 25px;
+  --typography-line-height-m: 22px;
+  --typography-line-height-s: 18px;
+  --typography-line-height-xs: 17px;
+  --typography-font-family-web: Avenir;
+}
