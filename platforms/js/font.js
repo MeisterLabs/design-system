@@ -1,10 +1,10 @@
 /**
  * Do not edit directly
- * Generated on Tue, 25 Oct 2022 16:24:44 GMT
+ * Generated on Tue, 25 Oct 2022 20:03:31 GMT
  */
 
 module.exports = {
-  "typography": {
+  "webfont": {
     "fontFamily": {
       "web": {
         "value": "Avenir",
@@ -15,14 +15,14 @@ module.exports = {
           "value": "Avenir",
           "type": "fontFamily"
         },
-        "name": "TypographyFontFamilyWeb",
+        "name": "WebfontFontFamilyWeb",
         "attributes": {
-          "category": "typography",
+          "category": "webfont",
           "type": "fontFamily",
           "item": "web"
         },
         "path": [
-          "typography",
+          "webfont",
           "fontFamily",
           "web"
         ]
@@ -38,14 +38,14 @@ module.exports = {
           "value": "17",
           "type": "lineHeight"
         },
-        "name": "TypographyLineHeightXs",
+        "name": "WebfontLineHeightXs",
         "attributes": {
-          "category": "typography",
+          "category": "webfont",
           "type": "lineHeight",
           "item": "xs"
         },
         "path": [
-          "typography",
+          "webfont",
           "lineHeight",
           "xs"
         ]
@@ -59,14 +59,14 @@ module.exports = {
           "value": "18",
           "type": "lineHeight"
         },
-        "name": "TypographyLineHeightS",
+        "name": "WebfontLineHeightS",
         "attributes": {
-          "category": "typography",
+          "category": "webfont",
           "type": "lineHeight",
           "item": "s"
         },
         "path": [
-          "typography",
+          "webfont",
           "lineHeight",
           "s"
         ]
@@ -80,14 +80,14 @@ module.exports = {
           "value": "22",
           "type": "lineHeight"
         },
-        "name": "TypographyLineHeightM",
+        "name": "WebfontLineHeightM",
         "attributes": {
-          "category": "typography",
+          "category": "webfont",
           "type": "lineHeight",
           "item": "m"
         },
         "path": [
-          "typography",
+          "webfont",
           "lineHeight",
           "m"
         ]
@@ -101,14 +101,14 @@ module.exports = {
           "value": "25",
           "type": "lineHeight"
         },
-        "name": "TypographyLineHeightL",
+        "name": "WebfontLineHeightL",
         "attributes": {
-          "category": "typography",
+          "category": "webfont",
           "type": "lineHeight",
           "item": "l"
         },
         "path": [
-          "typography",
+          "webfont",
           "lineHeight",
           "l"
         ]
@@ -122,14 +122,14 @@ module.exports = {
           "value": "31",
           "type": "lineHeight"
         },
-        "name": "TypographyLineHeightXl",
+        "name": "WebfontLineHeightXl",
         "attributes": {
-          "category": "typography",
+          "category": "webfont",
           "type": "lineHeight",
           "item": "xl"
         },
         "path": [
-          "typography",
+          "webfont",
           "lineHeight",
           "xl"
         ]
@@ -143,14 +143,14 @@ module.exports = {
           "value": "44",
           "type": "lineHeight"
         },
-        "name": "TypographyLineHeightXxl",
+        "name": "WebfontLineHeightXxl",
         "attributes": {
-          "category": "typography",
+          "category": "webfont",
           "type": "lineHeight",
           "item": "xxl"
         },
         "path": [
-          "typography",
+          "webfont",
           "lineHeight",
           "xxl"
         ]
@@ -164,14 +164,14 @@ module.exports = {
           "value": "70",
           "type": "lineHeight"
         },
-        "name": "TypographyLineHeightXxxl",
+        "name": "WebfontLineHeightXxxl",
         "attributes": {
-          "category": "typography",
+          "category": "webfont",
           "type": "lineHeight",
           "item": "xxxl"
         },
         "path": [
-          "typography",
+          "webfont",
           "lineHeight",
           "xxxl"
         ]
@@ -187,14 +187,14 @@ module.exports = {
           "value": "400",
           "type": "fontWeight"
         },
-        "name": "TypographyFontWeightRegular",
+        "name": "WebfontFontWeightRegular",
         "attributes": {
-          "category": "typography",
+          "category": "webfont",
           "type": "fontWeight",
           "item": "regular"
         },
         "path": [
-          "typography",
+          "webfont",
           "fontWeight",
           "regular"
         ]
@@ -208,14 +208,14 @@ module.exports = {
           "value": "500",
           "type": "fontWeight"
         },
-        "name": "TypographyFontWeightMedium",
+        "name": "WebfontFontWeightMedium",
         "attributes": {
-          "category": "typography",
+          "category": "webfont",
           "type": "fontWeight",
           "item": "medium"
         },
         "path": [
-          "typography",
+          "webfont",
           "fontWeight",
           "medium"
         ]
@@ -229,14 +229,14 @@ module.exports = {
           "value": "700",
           "type": "fontWeight"
         },
-        "name": "TypographyFontWeightBold",
+        "name": "WebfontFontWeightBold",
         "attributes": {
-          "category": "typography",
+          "category": "webfont",
           "type": "fontWeight",
           "item": "bold"
         },
         "path": [
-          "typography",
+          "webfont",
           "fontWeight",
           "bold"
         ]
@@ -252,14 +252,14 @@ module.exports = {
           "value": "11",
           "type": "fontSize"
         },
-        "name": "TypographyFontSizeXs",
+        "name": "WebfontFontSizeXs",
         "attributes": {
-          "category": "typography",
+          "category": "webfont",
           "type": "fontSize",
           "item": "xs"
         },
         "path": [
-          "typography",
+          "webfont",
           "fontSize",
           "xs"
         ]
@@ -273,14 +273,14 @@ module.exports = {
           "value": "13",
           "type": "fontSize"
         },
-        "name": "TypographyFontSizeS",
+        "name": "WebfontFontSizeS",
         "attributes": {
-          "category": "typography",
+          "category": "webfont",
           "type": "fontSize",
           "item": "s"
         },
         "path": [
-          "typography",
+          "webfont",
           "fontSize",
           "s"
         ]
@@ -294,14 +294,14 @@ module.exports = {
           "value": "15",
           "type": "fontSize"
         },
-        "name": "TypographyFontSizeM",
+        "name": "WebfontFontSizeM",
         "attributes": {
-          "category": "typography",
+          "category": "webfont",
           "type": "fontSize",
           "item": "m"
         },
         "path": [
-          "typography",
+          "webfont",
           "fontSize",
           "m"
         ]
@@ -315,14 +315,14 @@ module.exports = {
           "value": "17",
           "type": "fontSize"
         },
-        "name": "TypographyFontSizeL",
+        "name": "WebfontFontSizeL",
         "attributes": {
-          "category": "typography",
+          "category": "webfont",
           "type": "fontSize",
           "item": "l"
         },
         "path": [
-          "typography",
+          "webfont",
           "fontSize",
           "l"
         ]
@@ -336,14 +336,14 @@ module.exports = {
           "value": "21",
           "type": "fontSize"
         },
-        "name": "TypographyFontSizeXl",
+        "name": "WebfontFontSizeXl",
         "attributes": {
-          "category": "typography",
+          "category": "webfont",
           "type": "fontSize",
           "item": "xl"
         },
         "path": [
-          "typography",
+          "webfont",
           "fontSize",
           "xl"
         ]
@@ -357,14 +357,14 @@ module.exports = {
           "value": "34",
           "type": "fontSize"
         },
-        "name": "TypographyFontSizeXxl",
+        "name": "WebfontFontSizeXxl",
         "attributes": {
-          "category": "typography",
+          "category": "webfont",
           "type": "fontSize",
           "item": "xxl"
         },
         "path": [
-          "typography",
+          "webfont",
           "fontSize",
           "xxl"
         ]
@@ -378,14 +378,14 @@ module.exports = {
           "value": "60",
           "type": "fontSize"
         },
-        "name": "TypographyFontSizeXxxl",
+        "name": "WebfontFontSizeXxxl",
         "attributes": {
-          "category": "typography",
+          "category": "webfont",
           "type": "fontSize",
           "item": "xxxl"
         },
         "path": [
-          "typography",
+          "webfont",
           "fontSize",
           "xxxl"
         ]
@@ -401,14 +401,14 @@ module.exports = {
           "value": "0%",
           "type": "letterSpacing"
         },
-        "name": "TypographyLetterSpacingNormal",
+        "name": "WebfontLetterSpacingNormal",
         "attributes": {
-          "category": "typography",
+          "category": "webfont",
           "type": "letterSpacing",
           "item": "normal"
         },
         "path": [
-          "typography",
+          "webfont",
           "letterSpacing",
           "normal"
         ]
@@ -422,14 +422,14 @@ module.exports = {
           "value": "-1%",
           "type": "letterSpacing"
         },
-        "name": "TypographyLetterSpacingSmall",
+        "name": "WebfontLetterSpacingSmall",
         "attributes": {
-          "category": "typography",
+          "category": "webfont",
           "type": "letterSpacing",
           "item": "small"
         },
         "path": [
-          "typography",
+          "webfont",
           "letterSpacing",
           "small"
         ]
@@ -443,14 +443,14 @@ module.exports = {
           "value": "-1.5%",
           "type": "letterSpacing"
         },
-        "name": "TypographyLetterSpacingSmaller",
+        "name": "WebfontLetterSpacingSmaller",
         "attributes": {
-          "category": "typography",
+          "category": "webfont",
           "type": "letterSpacing",
           "item": "smaller"
         },
         "path": [
-          "typography",
+          "webfont",
           "letterSpacing",
           "smaller"
         ]
@@ -466,14 +466,14 @@ module.exports = {
           "value": "0",
           "type": "paragraphSpacing"
         },
-        "name": "TypographyParagraphSpacingNormal",
+        "name": "WebfontParagraphSpacingNormal",
         "attributes": {
-          "category": "typography",
+          "category": "webfont",
           "type": "paragraphSpacing",
           "item": "normal"
         },
         "path": [
-          "typography",
+          "webfont",
           "paragraphSpacing",
           "normal"
         ]
@@ -489,14 +489,14 @@ module.exports = {
           "value": "none",
           "type": "textCase"
         },
-        "name": "TypographyTextCaseNone",
+        "name": "WebfontTextCaseNone",
         "attributes": {
-          "category": "typography",
+          "category": "webfont",
           "type": "textCase",
           "item": "none"
         },
         "path": [
-          "typography",
+          "webfont",
           "textCase",
           "none"
         ]
@@ -512,14 +512,14 @@ module.exports = {
           "value": "none",
           "type": "textDecoration"
         },
-        "name": "TypographyTextDecorationNone",
+        "name": "WebfontTextDecorationNone",
         "attributes": {
-          "category": "typography",
+          "category": "webfont",
           "type": "textDecoration",
           "item": "none"
         },
         "path": [
-          "typography",
+          "webfont",
           "textDecoration",
           "none"
         ]
@@ -533,14 +533,14 @@ module.exports = {
           "value": "underline",
           "type": "textDecoration"
         },
-        "name": "TypographyTextDecorationUnderline",
+        "name": "WebfontTextDecorationUnderline",
         "attributes": {
-          "category": "typography",
+          "category": "webfont",
           "type": "textDecoration",
           "item": "underline"
         },
         "path": [
-          "typography",
+          "webfont",
           "textDecoration",
           "underline"
         ]

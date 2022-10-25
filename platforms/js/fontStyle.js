@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 25 Oct 2022 16:24:44 GMT
+ * Generated on Tue, 25 Oct 2022 20:03:31 GMT
  */
 
 module.exports = {
@@ -22,14 +22,14 @@ module.exports = {
         "isSource": true,
         "original": {
           "value": {
-            "fontFamily": "{typography.fontFamily.web}",
-            "fontWeight": "{typography.fontWeight.regular}",
-            "lineHeight": "{typography.lineHeight.xs}",
-            "fontSize": "{typography.fontSize.xs}",
-            "letterSpacing": "{typography.letterSpacing.normal}",
-            "paragraphSpacing": "{typography.paragraphSpacing.normal}",
-            "textCase": "{typography.textCase.none}",
-            "textDecoration": "{typography.textDecoration.none}"
+            "fontFamily": "{webfont.fontFamily.web}",
+            "fontWeight": "{webfont.fontWeight.regular}",
+            "lineHeight": "{webfont.lineHeight.xs}",
+            "fontSize": "{webfont.fontSize.xs}",
+            "letterSpacing": "{webfont.letterSpacing.normal}",
+            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
+            "textCase": "{webfont.textCase.none}",
+            "textDecoration": "{webfont.textDecoration.none}"
           },
           "type": "typography"
         },
@@ -61,14 +61,14 @@ module.exports = {
         "isSource": true,
         "original": {
           "value": {
-            "fontFamily": "{typography.fontFamily.web}",
-            "fontWeight": "{typography.fontWeight.medium}",
-            "lineHeight": "{typography.lineHeight.xs}",
-            "fontSize": "{typography.fontSize.xs}",
-            "letterSpacing": "{typography.letterSpacing.normal}",
-            "paragraphSpacing": "{typography.paragraphSpacing.normal}",
-            "textCase": "{typography.textCase.none}",
-            "textDecoration": "{typography.textDecoration.none}"
+            "fontFamily": "{webfont.fontFamily.web}",
+            "fontWeight": "{webfont.fontWeight.medium}",
+            "lineHeight": "{webfont.lineHeight.xs}",
+            "fontSize": "{webfont.fontSize.xs}",
+            "letterSpacing": "{webfont.letterSpacing.normal}",
+            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
+            "textCase": "{webfont.textCase.none}",
+            "textDecoration": "{webfont.textDecoration.none}"
           },
           "type": "typography"
         },
@@ -100,14 +100,14 @@ module.exports = {
         "isSource": true,
         "original": {
           "value": {
-            "fontFamily": "{typography.fontFamily.web}",
-            "fontWeight": "{typography.fontWeight.bold}",
-            "lineHeight": "{typography.lineHeight.xs}",
-            "fontSize": "{typography.fontSize.xs}",
-            "letterSpacing": "{typography.letterSpacing.normal}",
-            "paragraphSpacing": "{typography.paragraphSpacing.normal}",
-            "textCase": "{typography.textCase.none}",
-            "textDecoration": "{typography.textDecoration.none}"
+            "fontFamily": "{webfont.fontFamily.web}",
+            "fontWeight": "{webfont.fontWeight.bold}",
+            "lineHeight": "{webfont.lineHeight.xs}",
+            "fontSize": "{webfont.fontSize.xs}",
+            "letterSpacing": "{webfont.letterSpacing.normal}",
+            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
+            "textCase": "{webfont.textCase.none}",
+            "textDecoration": "{webfont.textDecoration.none}"
           },
           "type": "typography"
         },
@@ -141,14 +141,14 @@ module.exports = {
         "isSource": true,
         "original": {
           "value": {
-            "fontFamily": "{typography.fontFamily.web}",
-            "fontWeight": "{typography.fontWeight.regular}",
-            "lineHeight": "{typography.lineHeight.s}",
-            "fontSize": "{typography.fontSize.s}",
-            "letterSpacing": "{typography.letterSpacing.normal}",
-            "paragraphSpacing": "{typography.paragraphSpacing.normal}",
-            "textCase": "{typography.textCase.none}",
-            "textDecoration": "{typography.textDecoration.none}"
+            "fontFamily": "{webfont.fontFamily.web}",
+            "fontWeight": "{webfont.fontWeight.regular}",
+            "lineHeight": "{webfont.lineHeight.s}",
+            "fontSize": "{webfont.fontSize.s}",
+            "letterSpacing": "{webfont.letterSpacing.normal}",
+            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
+            "textCase": "{webfont.textCase.none}",
+            "textDecoration": "{webfont.textDecoration.none}"
           },
           "type": "typography"
         },
@@ -180,14 +180,14 @@ module.exports = {
         "isSource": true,
         "original": {
           "value": {
-            "fontFamily": "{typography.fontFamily.web}",
-            "fontWeight": "{typography.fontWeight.medium}",
-            "lineHeight": "{typography.lineHeight.s}",
-            "fontSize": "{typography.fontSize.s}",
-            "letterSpacing": "{typography.letterSpacing.normal}",
-            "paragraphSpacing": "{typography.paragraphSpacing.normal}",
-            "textCase": "{typography.textCase.none}",
-            "textDecoration": "{typography.textDecoration.none}"
+            "fontFamily": "{webfont.fontFamily.web}",
+            "fontWeight": "{webfont.fontWeight.medium}",
+            "lineHeight": "{webfont.lineHeight.s}",
+            "fontSize": "{webfont.fontSize.s}",
+            "letterSpacing": "{webfont.letterSpacing.normal}",
+            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
+            "textCase": "{webfont.textCase.none}",
+            "textDecoration": "{webfont.textDecoration.none}"
           },
           "type": "typography"
         },
@@ -219,14 +219,14 @@ module.exports = {
         "isSource": true,
         "original": {
           "value": {
-            "fontFamily": "{typography.fontFamily.web}",
-            "fontWeight": "{typography.fontWeight.bold}",
-            "lineHeight": "{typography.lineHeight.s}",
-            "fontSize": "{typography.fontSize.s}",
-            "letterSpacing": "{typography.letterSpacing.normal}",
-            "paragraphSpacing": "{typography.paragraphSpacing.normal}",
-            "textCase": "{typography.textCase.none}",
-            "textDecoration": "{typography.textDecoration.none}"
+            "fontFamily": "{webfont.fontFamily.web}",
+            "fontWeight": "{webfont.fontWeight.bold}",
+            "lineHeight": "{webfont.lineHeight.s}",
+            "fontSize": "{webfont.fontSize.s}",
+            "letterSpacing": "{webfont.letterSpacing.normal}",
+            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
+            "textCase": "{webfont.textCase.none}",
+            "textDecoration": "{webfont.textDecoration.none}"
           },
           "type": "typography"
         },
@@ -258,14 +258,14 @@ module.exports = {
         "isSource": true,
         "original": {
           "value": {
-            "fontFamily": "{typography.fontFamily.web}",
-            "fontWeight": "{typography.fontWeight.regular}",
-            "lineHeight": "{typography.lineHeight.s}",
-            "fontSize": "{typography.fontSize.s}",
-            "letterSpacing": "{typography.letterSpacing.normal}",
-            "paragraphSpacing": "{typography.paragraphSpacing.normal}",
-            "textCase": "{typography.textCase.none}",
-            "textDecoration": "{typography.textDecoration.underline}"
+            "fontFamily": "{webfont.fontFamily.web}",
+            "fontWeight": "{webfont.fontWeight.regular}",
+            "lineHeight": "{webfont.lineHeight.s}",
+            "fontSize": "{webfont.fontSize.s}",
+            "letterSpacing": "{webfont.letterSpacing.normal}",
+            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
+            "textCase": "{webfont.textCase.none}",
+            "textDecoration": "{webfont.textDecoration.underline}"
           },
           "type": "typography"
         },
@@ -290,7 +290,7 @@ module.exports = {
           "lineHeight": "22",
           "fontSize": "15",
           "letterSpacing": "0%",
-          "paragraphSpacing": "typography.paragraphSpacing.normal}",
+          "paragraphSpacing": "webfont.paragraphSpacing.normal}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -299,14 +299,14 @@ module.exports = {
         "isSource": true,
         "original": {
           "value": {
-            "fontFamily": "{typography.fontFamily.web}",
-            "fontWeight": "{typography.fontWeight.regular}",
-            "lineHeight": "{typography.lineHeight.m}",
-            "fontSize": "{typography.fontSize.m}",
-            "letterSpacing": "{typography.letterSpacing.normal}",
-            "paragraphSpacing": "typography.paragraphSpacing.normal}",
-            "textCase": "{typography.textCase.none}",
-            "textDecoration": "{typography.textDecoration.none}"
+            "fontFamily": "{webfont.fontFamily.web}",
+            "fontWeight": "{webfont.fontWeight.regular}",
+            "lineHeight": "{webfont.lineHeight.m}",
+            "fontSize": "{webfont.fontSize.m}",
+            "letterSpacing": "{webfont.letterSpacing.normal}",
+            "paragraphSpacing": "webfont.paragraphSpacing.normal}",
+            "textCase": "{webfont.textCase.none}",
+            "textDecoration": "{webfont.textDecoration.none}"
           },
           "type": "typography"
         },
@@ -338,14 +338,14 @@ module.exports = {
         "isSource": true,
         "original": {
           "value": {
-            "fontFamily": "{typography.fontFamily.web}",
-            "fontWeight": "{typography.fontWeight.medium}",
-            "lineHeight": "{typography.lineHeight.m}",
-            "fontSize": "{typography.fontSize.m}",
-            "letterSpacing": "{typography.letterSpacing.normal}",
-            "paragraphSpacing": "{typography.paragraphSpacing.normal}",
-            "textCase": "{typography.textCase.none}",
-            "textDecoration": "{typography.textDecoration.none}"
+            "fontFamily": "{webfont.fontFamily.web}",
+            "fontWeight": "{webfont.fontWeight.medium}",
+            "lineHeight": "{webfont.lineHeight.m}",
+            "fontSize": "{webfont.fontSize.m}",
+            "letterSpacing": "{webfont.letterSpacing.normal}",
+            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
+            "textCase": "{webfont.textCase.none}",
+            "textDecoration": "{webfont.textDecoration.none}"
           },
           "type": "typography"
         },
@@ -377,14 +377,14 @@ module.exports = {
         "isSource": true,
         "original": {
           "value": {
-            "fontFamily": "{typography.fontFamily.web}",
-            "fontWeight": "{typography.fontWeight.bold}",
-            "lineHeight": "{typography.lineHeight.m}",
-            "fontSize": "{typography.fontSize.m}",
-            "letterSpacing": "{typography.letterSpacing.normal}",
-            "paragraphSpacing": "{typography.paragraphSpacing.normal}",
-            "textCase": "{typography.textCase.none}",
-            "textDecoration": "{typography.textDecoration.none}"
+            "fontFamily": "{webfont.fontFamily.web}",
+            "fontWeight": "{webfont.fontWeight.bold}",
+            "lineHeight": "{webfont.lineHeight.m}",
+            "fontSize": "{webfont.fontSize.m}",
+            "letterSpacing": "{webfont.letterSpacing.normal}",
+            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
+            "textCase": "{webfont.textCase.none}",
+            "textDecoration": "{webfont.textDecoration.none}"
           },
           "type": "typography"
         },
@@ -416,14 +416,14 @@ module.exports = {
         "isSource": true,
         "original": {
           "value": {
-            "fontFamily": "{typography.fontFamily.web}",
-            "fontWeight": "{typography.fontWeight.regular}",
-            "lineHeight": "{typography.lineHeight.m}",
-            "fontSize": "{typography.fontSize.m}",
-            "letterSpacing": "{typography.letterSpacing.normal}",
-            "paragraphSpacing": "{typography.paragraphSpacing.normal}",
-            "textCase": "{typography.textCase.none}",
-            "textDecoration": "{typography.textDecoration.underline}"
+            "fontFamily": "{webfont.fontFamily.web}",
+            "fontWeight": "{webfont.fontWeight.regular}",
+            "lineHeight": "{webfont.lineHeight.m}",
+            "fontSize": "{webfont.fontSize.m}",
+            "letterSpacing": "{webfont.letterSpacing.normal}",
+            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
+            "textCase": "{webfont.textCase.none}",
+            "textDecoration": "{webfont.textDecoration.underline}"
           },
           "type": "typography"
         },
@@ -457,14 +457,14 @@ module.exports = {
         "isSource": true,
         "original": {
           "value": {
-            "fontFamily": "{typography.fontFamily.web}",
-            "fontWeight": "{typography.fontWeight.regular}",
-            "lineHeight": "{typography.lineHeight.l}",
-            "fontSize": "{typography.fontSize.l}",
-            "letterSpacing": "{typography.letterSpacing.normal}",
-            "paragraphSpacing": "{typography.paragraphSpacing.normal}",
-            "textCase": "{typography.textCase.none}",
-            "textDecoration": "{typography.textDecoration.none}"
+            "fontFamily": "{webfont.fontFamily.web}",
+            "fontWeight": "{webfont.fontWeight.regular}",
+            "lineHeight": "{webfont.lineHeight.l}",
+            "fontSize": "{webfont.fontSize.l}",
+            "letterSpacing": "{webfont.letterSpacing.normal}",
+            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
+            "textCase": "{webfont.textCase.none}",
+            "textDecoration": "{webfont.textDecoration.none}"
           },
           "type": "typography"
         },
@@ -496,14 +496,14 @@ module.exports = {
         "isSource": true,
         "original": {
           "value": {
-            "fontFamily": "{typography.fontFamily.web}",
-            "fontWeight": "{typography.fontWeight.medium}",
-            "lineHeight": "{typography.lineHeight.l}",
-            "fontSize": "{typography.fontSize.l}",
-            "letterSpacing": "{typography.letterSpacing.normal}",
-            "paragraphSpacing": "{typography.paragraphSpacing.normal}",
-            "textCase": "{typography.textCase.none}",
-            "textDecoration": "{typography.textDecoration.none}"
+            "fontFamily": "{webfont.fontFamily.web}",
+            "fontWeight": "{webfont.fontWeight.medium}",
+            "lineHeight": "{webfont.lineHeight.l}",
+            "fontSize": "{webfont.fontSize.l}",
+            "letterSpacing": "{webfont.letterSpacing.normal}",
+            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
+            "textCase": "{webfont.textCase.none}",
+            "textDecoration": "{webfont.textDecoration.none}"
           },
           "type": "typography"
         },
@@ -535,14 +535,14 @@ module.exports = {
         "isSource": true,
         "original": {
           "value": {
-            "fontFamily": "{typography.fontFamily.web}",
-            "fontWeight": "{typography.fontWeight.bold}",
-            "lineHeight": "{typography.lineHeight.l}",
-            "fontSize": "{typography.fontSize.l}",
-            "letterSpacing": "{typography.letterSpacing.normal}",
-            "paragraphSpacing": "{typography.paragraphSpacing.normal}",
-            "textCase": "{typography.textCase.none}",
-            "textDecoration": "{typography.textDecoration.none}"
+            "fontFamily": "{webfont.fontFamily.web}",
+            "fontWeight": "{webfont.fontWeight.bold}",
+            "lineHeight": "{webfont.lineHeight.l}",
+            "fontSize": "{webfont.fontSize.l}",
+            "letterSpacing": "{webfont.letterSpacing.normal}",
+            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
+            "textCase": "{webfont.textCase.none}",
+            "textDecoration": "{webfont.textDecoration.none}"
           },
           "type": "typography"
         },
@@ -574,14 +574,14 @@ module.exports = {
         "isSource": true,
         "original": {
           "value": {
-            "fontFamily": "{typography.fontFamily.web}",
-            "fontWeight": "{typography.fontWeight.regular}",
-            "lineHeight": "{typography.lineHeight.l}",
-            "fontSize": "{typography.fontSize.l}",
-            "letterSpacing": "{typography.letterSpacing.normal}",
-            "paragraphSpacing": "{typography.paragraphSpacing.normal}",
-            "textCase": "{typography.textCase.none}",
-            "textDecoration": "{typography.textDecoration.underline}"
+            "fontFamily": "{webfont.fontFamily.web}",
+            "fontWeight": "{webfont.fontWeight.regular}",
+            "lineHeight": "{webfont.lineHeight.l}",
+            "fontSize": "{webfont.fontSize.l}",
+            "letterSpacing": "{webfont.letterSpacing.normal}",
+            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
+            "textCase": "{webfont.textCase.none}",
+            "textDecoration": "{webfont.textDecoration.underline}"
           },
           "type": "typography"
         },
@@ -615,14 +615,14 @@ module.exports = {
         "isSource": true,
         "original": {
           "value": {
-            "fontFamily": "{typography.fontFamily.web}",
-            "fontWeight": "{typography.fontWeight.regular}",
-            "lineHeight": "{typography.lineHeight.xl}",
-            "fontSize": "{typography.fontSize.xl}",
-            "letterSpacing": "{typography.letterSpacing.normal}",
-            "paragraphSpacing": "{typography.paragraphSpacing.normal}",
-            "textCase": "{typography.textCase.none}",
-            "textDecoration": "{typography.textDecoration.none}"
+            "fontFamily": "{webfont.fontFamily.web}",
+            "fontWeight": "{webfont.fontWeight.regular}",
+            "lineHeight": "{webfont.lineHeight.xl}",
+            "fontSize": "{webfont.fontSize.xl}",
+            "letterSpacing": "{webfont.letterSpacing.normal}",
+            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
+            "textCase": "{webfont.textCase.none}",
+            "textDecoration": "{webfont.textDecoration.none}"
           },
           "type": "typography"
         },
@@ -654,14 +654,14 @@ module.exports = {
         "isSource": true,
         "original": {
           "value": {
-            "fontFamily": "{typography.fontFamily.web}",
-            "fontWeight": "{typography.fontWeight.medium}",
-            "lineHeight": "{typography.lineHeight.xl}",
-            "fontSize": "{typography.fontSize.xl}",
-            "letterSpacing": "{typography.letterSpacing.normal}",
-            "paragraphSpacing": "{typography.paragraphSpacing.normal}",
-            "textCase": "{typography.textCase.none}",
-            "textDecoration": "{typography.textDecoration.none}"
+            "fontFamily": "{webfont.fontFamily.web}",
+            "fontWeight": "{webfont.fontWeight.medium}",
+            "lineHeight": "{webfont.lineHeight.xl}",
+            "fontSize": "{webfont.fontSize.xl}",
+            "letterSpacing": "{webfont.letterSpacing.normal}",
+            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
+            "textCase": "{webfont.textCase.none}",
+            "textDecoration": "{webfont.textDecoration.none}"
           },
           "type": "typography"
         },
@@ -693,14 +693,14 @@ module.exports = {
         "isSource": true,
         "original": {
           "value": {
-            "fontFamily": "{typography.fontFamily.web}",
-            "fontWeight": "{typography.fontWeight.bold}",
-            "lineHeight": "{typography.lineHeight.xl}",
-            "fontSize": "{typography.fontSize.xl}",
-            "letterSpacing": "{typography.letterSpacing.normal}",
-            "paragraphSpacing": "{typography.paragraphSpacing.normal}",
-            "textCase": "{typography.textCase.none}",
-            "textDecoration": "{typography.textDecoration.none}"
+            "fontFamily": "{webfont.fontFamily.web}",
+            "fontWeight": "{webfont.fontWeight.bold}",
+            "lineHeight": "{webfont.lineHeight.xl}",
+            "fontSize": "{webfont.fontSize.xl}",
+            "letterSpacing": "{webfont.letterSpacing.normal}",
+            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
+            "textCase": "{webfont.textCase.none}",
+            "textDecoration": "{webfont.textDecoration.none}"
           },
           "type": "typography"
         },
@@ -734,14 +734,14 @@ module.exports = {
         "isSource": true,
         "original": {
           "value": {
-            "fontFamily": "{typography.fontFamily.web}",
-            "fontWeight": "{typography.fontWeight.regular}",
-            "lineHeight": "{typography.lineHeight.xxl}",
-            "fontSize": "{typography.fontSize.xxl}",
-            "letterSpacing": "{typography.letterSpacing.small}",
-            "paragraphSpacing": "{typography.paragraphSpacing.normal}",
-            "textCase": "{typography.textCase.none}",
-            "textDecoration": "{typography.textDecoration.none}"
+            "fontFamily": "{webfont.fontFamily.web}",
+            "fontWeight": "{webfont.fontWeight.regular}",
+            "lineHeight": "{webfont.lineHeight.xxl}",
+            "fontSize": "{webfont.fontSize.xxl}",
+            "letterSpacing": "{webfont.letterSpacing.small}",
+            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
+            "textCase": "{webfont.textCase.none}",
+            "textDecoration": "{webfont.textDecoration.none}"
           },
           "type": "typography"
         },
@@ -773,14 +773,14 @@ module.exports = {
         "isSource": true,
         "original": {
           "value": {
-            "fontFamily": "{typography.fontFamily.web}",
-            "fontWeight": "{typography.fontWeight.medium}",
-            "lineHeight": "{typography.lineHeight.xxl}",
-            "fontSize": "{typography.fontSize.xxl}",
-            "letterSpacing": "{typography.letterSpacing.small}",
-            "paragraphSpacing": "{typography.paragraphSpacing.normal}",
-            "textCase": "{typography.textCase.none}",
-            "textDecoration": "{typography.textDecoration.none}"
+            "fontFamily": "{webfont.fontFamily.web}",
+            "fontWeight": "{webfont.fontWeight.medium}",
+            "lineHeight": "{webfont.lineHeight.xxl}",
+            "fontSize": "{webfont.fontSize.xxl}",
+            "letterSpacing": "{webfont.letterSpacing.small}",
+            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
+            "textCase": "{webfont.textCase.none}",
+            "textDecoration": "{webfont.textDecoration.none}"
           },
           "type": "typography"
         },
@@ -812,14 +812,14 @@ module.exports = {
         "isSource": true,
         "original": {
           "value": {
-            "fontFamily": "{typography.fontFamily.web}",
-            "fontWeight": "{typography.fontWeight.bold}",
-            "lineHeight": "{typography.lineHeight.xxl}",
-            "fontSize": "{typography.fontSize.xxl}",
-            "letterSpacing": "{typography.letterSpacing.small}",
-            "paragraphSpacing": "{typography.paragraphSpacing.normal}",
-            "textCase": "{typography.textCase.none}",
-            "textDecoration": "{typography.textDecoration.none}"
+            "fontFamily": "{webfont.fontFamily.web}",
+            "fontWeight": "{webfont.fontWeight.bold}",
+            "lineHeight": "{webfont.lineHeight.xxl}",
+            "fontSize": "{webfont.fontSize.xxl}",
+            "letterSpacing": "{webfont.letterSpacing.small}",
+            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
+            "textCase": "{webfont.textCase.none}",
+            "textDecoration": "{webfont.textDecoration.none}"
           },
           "type": "typography"
         },
@@ -853,14 +853,14 @@ module.exports = {
         "isSource": true,
         "original": {
           "value": {
-            "fontFamily": "{typography.fontFamily.web}",
-            "fontWeight": "{typography.fontWeight.regular}",
-            "lineHeight": "{typography.lineHeight.xxxl}",
-            "fontSize": "{typography.fontSize.xxxl}",
-            "letterSpacing": "{typography.letterSpacing.smaller}",
-            "paragraphSpacing": "{typography.paragraphSpacing.normal}",
-            "textCase": "{typography.textCase.none}",
-            "textDecoration": "{typography.textDecoration.none}"
+            "fontFamily": "{webfont.fontFamily.web}",
+            "fontWeight": "{webfont.fontWeight.regular}",
+            "lineHeight": "{webfont.lineHeight.xxxl}",
+            "fontSize": "{webfont.fontSize.xxxl}",
+            "letterSpacing": "{webfont.letterSpacing.smaller}",
+            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
+            "textCase": "{webfont.textCase.none}",
+            "textDecoration": "{webfont.textDecoration.none}"
           },
           "type": "typography"
         },
@@ -892,14 +892,14 @@ module.exports = {
         "isSource": true,
         "original": {
           "value": {
-            "fontFamily": "{typography.fontFamily.web}",
-            "fontWeight": "{typography.fontWeight.medium}",
-            "lineHeight": "{typography.lineHeight.xxxl}",
-            "fontSize": "{typography.fontSize.xxxl}",
-            "letterSpacing": "{typography.letterSpacing.smaller}",
-            "paragraphSpacing": "{typography.paragraphSpacing.normal}",
-            "textCase": "{typography.textCase.none}",
-            "textDecoration": "{typography.textDecoration.none}"
+            "fontFamily": "{webfont.fontFamily.web}",
+            "fontWeight": "{webfont.fontWeight.medium}",
+            "lineHeight": "{webfont.lineHeight.xxxl}",
+            "fontSize": "{webfont.fontSize.xxxl}",
+            "letterSpacing": "{webfont.letterSpacing.smaller}",
+            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
+            "textCase": "{webfont.textCase.none}",
+            "textDecoration": "{webfont.textDecoration.none}"
           },
           "type": "typography"
         },
@@ -931,14 +931,14 @@ module.exports = {
         "isSource": true,
         "original": {
           "value": {
-            "fontFamily": "{typography.fontFamily.web}",
-            "fontWeight": "{typography.fontWeight.bold}",
-            "lineHeight": "{typography.lineHeight.xxxl}",
-            "fontSize": "{typography.fontSize.xxxl}",
-            "letterSpacing": "{typography.letterSpacing.smaller}",
-            "paragraphSpacing": "{typography.paragraphSpacing.normal}",
-            "textCase": "{typography.textCase.none}",
-            "textDecoration": "{typography.textDecoration.none}"
+            "fontFamily": "{webfont.fontFamily.web}",
+            "fontWeight": "{webfont.fontWeight.bold}",
+            "lineHeight": "{webfont.lineHeight.xxxl}",
+            "fontSize": "{webfont.fontSize.xxxl}",
+            "letterSpacing": "{webfont.letterSpacing.smaller}",
+            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
+            "textCase": "{webfont.textCase.none}",
+            "textDecoration": "{webfont.textDecoration.none}"
           },
           "type": "typography"
         },

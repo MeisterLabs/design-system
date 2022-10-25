@@ -1,10 +1,11 @@
+const { properties } = require("style-dictionary");
+
 module.exports={
     "source": ['./platforms/tokens.json'],
 
     "platforms": {
       "css": {
-        "transforms": ["attribute/cti", "name/cti/kebab", "time/seconds", "content/icon", "lineHeight/px","fontSize/px", "color/hex"],
-        // "prefix": "sd",
+        "transforms": ["attribute/cti", "name/cti/kebab", "time/seconds", "lineHeight/px","fontSize/px", "color/hex"],
         "buildPath": "platforms/css/",
         "files": [
           {
@@ -24,7 +25,7 @@ module.exports={
               "outputReferences": true
             },
             "filter": {
-              "attributes": { category: 'typography'},
+              "attributes": { category: 'webfont'},
             },
           },
         ]
@@ -47,7 +48,7 @@ module.exports={
             "destination": "font.js",
             "format": "javascript/module",
             "filter": {
-            "attributes": { category: 'typography' },
+            "attributes": { category: 'webfont' },
           },
           "options": {
             "outputReferences": true
