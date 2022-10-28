@@ -1,8 +1,3 @@
-/**
- * Do not edit directly
- * Generated on Fri, 28 Oct 2022 09:35:24 GMT
- */
-
 export const MdsColorsNavyNavy000 = "#e2f2ff";
 export const MdsColorsNavyNavy100 = "#bfe0ff";
 export const MdsColorsNavyNavy200 = "#9cc9ff";
@@ -127,17 +122,17 @@ export const MdsColorsOpacityW50 = "#ffffff80";
 export const MdsColorsOpacityW75 = "#ffffffbf";
 export const MdsColorsOpacityW80 = "#ffffffcc";
 export const MdsColorsOpacityW95 = "#fffffff2";
-export const MdsColorsDefaultSky = "#e6f7ff";
-export const MdsColorsDefaultBanana = "#fff2b3";
-export const MdsColorsDefaultBlue = "#00aaff";
-export const MdsColorsDefaultNavy = "#4070ff";
-export const MdsColorsDefaultCyan = "#2ed7d8";
-export const MdsColorsDefaultGrass = "#96db0b";
-export const MdsColorsDefaultGreen = "#3dcc3d";
-export const MdsColorsDefaultYellow = "#ffd426";
-export const MdsColorsDefaultOrange = "#ffaa00";
-export const MdsColorsDefaultRed = "#d42d20";
-export const MdsColorsDefaultPink = "#f7578c";
-export const MdsColorsDefaultPurple = "#a179f2";
-export const MdsColorsDefaultBlack = "#000000";
-export const MdsColorsDefaultWhite = "#ffffff";
+export const MdsColorsDefaultSky = "MdsColorsBlueBlue000";
+export const MdsColorsDefaultBanana = "MdsColorsYellowYellow100";
+export const MdsColorsDefaultBlue = "MdsColorsBlueBlue500";
+export const MdsColorsDefaultNavy = "MdsColorsNavyNavy500";
+export const MdsColorsDefaultCyan = "MdsColorsCyanCyan500";
+export const MdsColorsDefaultGrass = "MdsColorsGrassGrass500";
+export const MdsColorsDefaultGreen = "MdsColorsGreenGreen500";
+export const MdsColorsDefaultYellow = "MdsColorsYellowYellow500";
+export const MdsColorsDefaultOrange = "MdsColorsOrangeOrange500";
+export const MdsColorsDefaultRed = "MdsColorsRedRed600";
+export const MdsColorsDefaultPink = "MdsColorsPinkPink500";
+export const MdsColorsDefaultPurple = "MdsColorsPurplePurple500";
+export const MdsColorsDefaultBlack = "MdsColorsGreyGrey1000";
+export const MdsColorsDefaultWhite = "MdsColorsGreyGrey000";
