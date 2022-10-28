@@ -1,10 +1,10 @@
 /**
  * Do not edit directly
- * Generated on Fri, 28 Oct 2022 09:29:46 GMT
+ * Generated on Fri, 28 Oct 2022 09:35:24 GMT
  */
 
 module.exports = {
-  "tokens": {
+  "mds": {
     "fontStyle": {
       "01xs": {
         "regular": {
@@ -19,30 +19,30 @@ module.exports = {
             "textDecoration": "none"
           },
           "type": "typography",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": {
-              "fontFamily": "{tokens.webfont.fontFamily.web}",
-              "fontWeight": "{tokens.webfont.fontWeight.regular}",
-              "lineHeight": "{tokens.webfont.lineHeight.xs}",
-              "fontSize": "{tokens.webfont.fontSize.xs}",
-              "letterSpacing": "{tokens.webfont.letterSpacing.normal}",
-              "paragraphSpacing": "{tokens.webfont.paragraphSpacing.normal}",
-              "textCase": "{tokens.webfont.textCase.none}",
-              "textDecoration": "{tokens.webfont.textDecoration.none}"
+              "fontFamily": "{mds.webfont.fontFamily.web}",
+              "fontWeight": "{mds.webfont.fontWeight.regular}",
+              "lineHeight": "{mds.webfont.lineHeight.xs}",
+              "fontSize": "{mds.webfont.fontSize.xs}",
+              "letterSpacing": "{mds.webfont.letterSpacing.normal}",
+              "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+              "textCase": "{mds.webfont.textCase.none}",
+              "textDecoration": "{mds.webfont.textDecoration.none}"
             },
             "type": "typography"
           },
-          "name": "TokensFontStyle01xsRegular",
+          "name": "MdsFontStyle01xsRegular",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "fontStyle",
             "item": "01xs",
             "subitem": "regular"
           },
           "path": [
-            "tokens",
+            "mds",
             "fontStyle",
             "01xs",
             "regular"
@@ -60,30 +60,30 @@ module.exports = {
             "textDecoration": "none"
           },
           "type": "typography",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": {
-              "fontFamily": "{tokens.webfont.fontFamily.web}",
-              "fontWeight": "{tokens.webfont.fontWeight.medium}",
-              "lineHeight": "{tokens.webfont.lineHeight.xs}",
-              "fontSize": "{tokens.webfont.fontSize.xs}",
-              "letterSpacing": "{tokens.webfont.letterSpacing.normal}",
-              "paragraphSpacing": "{tokens.webfont.paragraphSpacing.normal}",
-              "textCase": "{tokens.webfont.textCase.none}",
-              "textDecoration": "{tokens.webfont.textDecoration.none}"
+              "fontFamily": "{mds.webfont.fontFamily.web}",
+              "fontWeight": "{mds.webfont.fontWeight.medium}",
+              "lineHeight": "{mds.webfont.lineHeight.xs}",
+              "fontSize": "{mds.webfont.fontSize.xs}",
+              "letterSpacing": "{mds.webfont.letterSpacing.normal}",
+              "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+              "textCase": "{mds.webfont.textCase.none}",
+              "textDecoration": "{mds.webfont.textDecoration.none}"
             },
             "type": "typography"
           },
-          "name": "TokensFontStyle01xsMedium",
+          "name": "MdsFontStyle01xsMedium",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "fontStyle",
             "item": "01xs",
             "subitem": "medium"
           },
           "path": [
-            "tokens",
+            "mds",
             "fontStyle",
             "01xs",
             "medium"
@@ -101,30 +101,30 @@ module.exports = {
             "textDecoration": "none"
           },
           "type": "typography",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": {
-              "fontFamily": "{tokens.webfont.fontFamily.web}",
-              "fontWeight": "{tokens.webfont.fontWeight.bold}",
-              "lineHeight": "{tokens.webfont.lineHeight.xs}",
-              "fontSize": "{tokens.webfont.fontSize.xs}",
-              "letterSpacing": "{tokens.webfont.letterSpacing.normal}",
-              "paragraphSpacing": "{tokens.webfont.paragraphSpacing.normal}",
-              "textCase": "{tokens.webfont.textCase.none}",
-              "textDecoration": "{tokens.webfont.textDecoration.none}"
+              "fontFamily": "{mds.webfont.fontFamily.web}",
+              "fontWeight": "{mds.webfont.fontWeight.bold}",
+              "lineHeight": "{mds.webfont.lineHeight.xs}",
+              "fontSize": "{mds.webfont.fontSize.xs}",
+              "letterSpacing": "{mds.webfont.letterSpacing.normal}",
+              "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+              "textCase": "{mds.webfont.textCase.none}",
+              "textDecoration": "{mds.webfont.textDecoration.none}"
             },
             "type": "typography"
           },
-          "name": "TokensFontStyle01xsBold",
+          "name": "MdsFontStyle01xsBold",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "fontStyle",
             "item": "01xs",
             "subitem": "bold"
           },
           "path": [
-            "tokens",
+            "mds",
             "fontStyle",
             "01xs",
             "bold"
@@ -144,30 +144,30 @@ module.exports = {
             "textDecoration": "none"
           },
           "type": "typography",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": {
-              "fontFamily": "{tokens.webfont.fontFamily.web}",
-              "fontWeight": "{tokens.webfont.fontWeight.regular}",
-              "lineHeight": "{tokens.webfont.lineHeight.s}",
-              "fontSize": "{tokens.webfont.fontSize.s}",
-              "letterSpacing": "{tokens.webfont.letterSpacing.normal}",
-              "paragraphSpacing": "{tokens.webfont.paragraphSpacing.normal}",
-              "textCase": "{tokens.webfont.textCase.none}",
-              "textDecoration": "{tokens.webfont.textDecoration.none}"
+              "fontFamily": "{mds.webfont.fontFamily.web}",
+              "fontWeight": "{mds.webfont.fontWeight.regular}",
+              "lineHeight": "{mds.webfont.lineHeight.s}",
+              "fontSize": "{mds.webfont.fontSize.s}",
+              "letterSpacing": "{mds.webfont.letterSpacing.normal}",
+              "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+              "textCase": "{mds.webfont.textCase.none}",
+              "textDecoration": "{mds.webfont.textDecoration.none}"
             },
             "type": "typography"
           },
-          "name": "TokensFontStyle02sRegular",
+          "name": "MdsFontStyle02sRegular",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "fontStyle",
             "item": "02s",
             "subitem": "regular"
           },
           "path": [
-            "tokens",
+            "mds",
             "fontStyle",
             "02s",
             "regular"
@@ -185,30 +185,30 @@ module.exports = {
             "textDecoration": "none"
           },
           "type": "typography",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": {
-              "fontFamily": "{tokens.webfont.fontFamily.web}",
-              "fontWeight": "{tokens.webfont.fontWeight.medium}",
-              "lineHeight": "{tokens.webfont.lineHeight.s}",
-              "fontSize": "{tokens.webfont.fontSize.s}",
-              "letterSpacing": "{tokens.webfont.letterSpacing.normal}",
-              "paragraphSpacing": "{tokens.webfont.paragraphSpacing.normal}",
-              "textCase": "{tokens.webfont.textCase.none}",
-              "textDecoration": "{tokens.webfont.textDecoration.none}"
+              "fontFamily": "{mds.webfont.fontFamily.web}",
+              "fontWeight": "{mds.webfont.fontWeight.medium}",
+              "lineHeight": "{mds.webfont.lineHeight.s}",
+              "fontSize": "{mds.webfont.fontSize.s}",
+              "letterSpacing": "{mds.webfont.letterSpacing.normal}",
+              "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+              "textCase": "{mds.webfont.textCase.none}",
+              "textDecoration": "{mds.webfont.textDecoration.none}"
             },
             "type": "typography"
           },
-          "name": "TokensFontStyle02sMedium",
+          "name": "MdsFontStyle02sMedium",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "fontStyle",
             "item": "02s",
             "subitem": "medium"
           },
           "path": [
-            "tokens",
+            "mds",
             "fontStyle",
             "02s",
             "medium"
@@ -226,30 +226,30 @@ module.exports = {
             "textDecoration": "none"
           },
           "type": "typography",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": {
-              "fontFamily": "{tokens.webfont.fontFamily.web}",
-              "fontWeight": "{tokens.webfont.fontWeight.bold}",
-              "lineHeight": "{tokens.webfont.lineHeight.s}",
-              "fontSize": "{tokens.webfont.fontSize.s}",
-              "letterSpacing": "{tokens.webfont.letterSpacing.normal}",
-              "paragraphSpacing": "{tokens.webfont.paragraphSpacing.normal}",
-              "textCase": "{tokens.webfont.textCase.none}",
-              "textDecoration": "{tokens.webfont.textDecoration.none}"
+              "fontFamily": "{mds.webfont.fontFamily.web}",
+              "fontWeight": "{mds.webfont.fontWeight.bold}",
+              "lineHeight": "{mds.webfont.lineHeight.s}",
+              "fontSize": "{mds.webfont.fontSize.s}",
+              "letterSpacing": "{mds.webfont.letterSpacing.normal}",
+              "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+              "textCase": "{mds.webfont.textCase.none}",
+              "textDecoration": "{mds.webfont.textDecoration.none}"
             },
             "type": "typography"
           },
-          "name": "TokensFontStyle02sBold",
+          "name": "MdsFontStyle02sBold",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "fontStyle",
             "item": "02s",
             "subitem": "bold"
           },
           "path": [
-            "tokens",
+            "mds",
             "fontStyle",
             "02s",
             "bold"
@@ -267,30 +267,30 @@ module.exports = {
             "textDecoration": "underline"
           },
           "type": "typography",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": {
-              "fontFamily": "{tokens.webfont.fontFamily.web}",
-              "fontWeight": "{tokens.webfont.fontWeight.regular}",
-              "lineHeight": "{tokens.webfont.lineHeight.s}",
-              "fontSize": "{tokens.webfont.fontSize.s}",
-              "letterSpacing": "{tokens.webfont.letterSpacing.normal}",
-              "paragraphSpacing": "{tokens.webfont.paragraphSpacing.normal}",
-              "textCase": "{tokens.webfont.textCase.none}",
-              "textDecoration": "{tokens.webfont.textDecoration.underline}"
+              "fontFamily": "{mds.webfont.fontFamily.web}",
+              "fontWeight": "{mds.webfont.fontWeight.regular}",
+              "lineHeight": "{mds.webfont.lineHeight.s}",
+              "fontSize": "{mds.webfont.fontSize.s}",
+              "letterSpacing": "{mds.webfont.letterSpacing.normal}",
+              "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+              "textCase": "{mds.webfont.textCase.none}",
+              "textDecoration": "{mds.webfont.textDecoration.underline}"
             },
             "type": "typography"
           },
-          "name": "TokensFontStyle02sLink",
+          "name": "MdsFontStyle02sLink",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "fontStyle",
             "item": "02s",
             "subitem": "link"
           },
           "path": [
-            "tokens",
+            "mds",
             "fontStyle",
             "02s",
             "link"
@@ -305,35 +305,35 @@ module.exports = {
             "lineHeight": "22",
             "fontSize": "15",
             "letterSpacing": "0%",
-            "paragraphSpacing": "tokens.webfont.paragraphSpacing.normal}",
+            "paragraphSpacing": "mds.webfont.paragraphSpacing.normal}",
             "textCase": "none",
             "textDecoration": "none"
           },
           "type": "typography",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": {
-              "fontFamily": "{tokens.webfont.fontFamily.web}",
-              "fontWeight": "{tokens.webfont.fontWeight.regular}",
-              "lineHeight": "{tokens.webfont.lineHeight.m}",
-              "fontSize": "{tokens.webfont.fontSize.m}",
-              "letterSpacing": "{tokens.webfont.letterSpacing.normal}",
-              "paragraphSpacing": "tokens.webfont.paragraphSpacing.normal}",
-              "textCase": "{tokens.webfont.textCase.none}",
-              "textDecoration": "{tokens.webfont.textDecoration.none}"
+              "fontFamily": "{mds.webfont.fontFamily.web}",
+              "fontWeight": "{mds.webfont.fontWeight.regular}",
+              "lineHeight": "{mds.webfont.lineHeight.m}",
+              "fontSize": "{mds.webfont.fontSize.m}",
+              "letterSpacing": "{mds.webfont.letterSpacing.normal}",
+              "paragraphSpacing": "mds.webfont.paragraphSpacing.normal}",
+              "textCase": "{mds.webfont.textCase.none}",
+              "textDecoration": "{mds.webfont.textDecoration.none}"
             },
             "type": "typography"
           },
-          "name": "TokensFontStyle03mRegular",
+          "name": "MdsFontStyle03mRegular",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "fontStyle",
             "item": "03m",
             "subitem": "regular"
           },
           "path": [
-            "tokens",
+            "mds",
             "fontStyle",
             "03m",
             "regular"
@@ -351,30 +351,30 @@ module.exports = {
             "textDecoration": "none"
           },
           "type": "typography",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": {
-              "fontFamily": "{tokens.webfont.fontFamily.web}",
-              "fontWeight": "{tokens.webfont.fontWeight.medium}",
-              "lineHeight": "{tokens.webfont.lineHeight.m}",
-              "fontSize": "{tokens.webfont.fontSize.m}",
-              "letterSpacing": "{tokens.webfont.letterSpacing.normal}",
-              "paragraphSpacing": "{tokens.webfont.paragraphSpacing.normal}",
-              "textCase": "{tokens.webfont.textCase.none}",
-              "textDecoration": "{tokens.webfont.textDecoration.none}"
+              "fontFamily": "{mds.webfont.fontFamily.web}",
+              "fontWeight": "{mds.webfont.fontWeight.medium}",
+              "lineHeight": "{mds.webfont.lineHeight.m}",
+              "fontSize": "{mds.webfont.fontSize.m}",
+              "letterSpacing": "{mds.webfont.letterSpacing.normal}",
+              "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+              "textCase": "{mds.webfont.textCase.none}",
+              "textDecoration": "{mds.webfont.textDecoration.none}"
             },
             "type": "typography"
           },
-          "name": "TokensFontStyle03mMedium",
+          "name": "MdsFontStyle03mMedium",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "fontStyle",
             "item": "03m",
             "subitem": "medium"
           },
           "path": [
-            "tokens",
+            "mds",
             "fontStyle",
             "03m",
             "medium"
@@ -392,30 +392,30 @@ module.exports = {
             "textDecoration": "none"
           },
           "type": "typography",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": {
-              "fontFamily": "{tokens.webfont.fontFamily.web}",
-              "fontWeight": "{tokens.webfont.fontWeight.bold}",
-              "lineHeight": "{tokens.webfont.lineHeight.m}",
-              "fontSize": "{tokens.webfont.fontSize.m}",
-              "letterSpacing": "{tokens.webfont.letterSpacing.normal}",
-              "paragraphSpacing": "{tokens.webfont.paragraphSpacing.normal}",
-              "textCase": "{tokens.webfont.textCase.none}",
-              "textDecoration": "{tokens.webfont.textDecoration.none}"
+              "fontFamily": "{mds.webfont.fontFamily.web}",
+              "fontWeight": "{mds.webfont.fontWeight.bold}",
+              "lineHeight": "{mds.webfont.lineHeight.m}",
+              "fontSize": "{mds.webfont.fontSize.m}",
+              "letterSpacing": "{mds.webfont.letterSpacing.normal}",
+              "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+              "textCase": "{mds.webfont.textCase.none}",
+              "textDecoration": "{mds.webfont.textDecoration.none}"
             },
             "type": "typography"
           },
-          "name": "TokensFontStyle03mBold",
+          "name": "MdsFontStyle03mBold",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "fontStyle",
             "item": "03m",
             "subitem": "bold"
           },
           "path": [
-            "tokens",
+            "mds",
             "fontStyle",
             "03m",
             "bold"
@@ -433,30 +433,30 @@ module.exports = {
             "textDecoration": "underline"
           },
           "type": "typography",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": {
-              "fontFamily": "{tokens.webfont.fontFamily.web}",
-              "fontWeight": "{tokens.webfont.fontWeight.regular}",
-              "lineHeight": "{tokens.webfont.lineHeight.m}",
-              "fontSize": "{tokens.webfont.fontSize.m}",
-              "letterSpacing": "{tokens.webfont.letterSpacing.normal}",
-              "paragraphSpacing": "{tokens.webfont.paragraphSpacing.normal}",
-              "textCase": "{tokens.webfont.textCase.none}",
-              "textDecoration": "{tokens.webfont.textDecoration.underline}"
+              "fontFamily": "{mds.webfont.fontFamily.web}",
+              "fontWeight": "{mds.webfont.fontWeight.regular}",
+              "lineHeight": "{mds.webfont.lineHeight.m}",
+              "fontSize": "{mds.webfont.fontSize.m}",
+              "letterSpacing": "{mds.webfont.letterSpacing.normal}",
+              "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+              "textCase": "{mds.webfont.textCase.none}",
+              "textDecoration": "{mds.webfont.textDecoration.underline}"
             },
             "type": "typography"
           },
-          "name": "TokensFontStyle03mLink",
+          "name": "MdsFontStyle03mLink",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "fontStyle",
             "item": "03m",
             "subitem": "link"
           },
           "path": [
-            "tokens",
+            "mds",
             "fontStyle",
             "03m",
             "link"
@@ -476,30 +476,30 @@ module.exports = {
             "textDecoration": "none"
           },
           "type": "typography",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": {
-              "fontFamily": "{tokens.webfont.fontFamily.web}",
-              "fontWeight": "{tokens.webfont.fontWeight.regular}",
-              "lineHeight": "{tokens.webfont.lineHeight.l}",
-              "fontSize": "{tokens.webfont.fontSize.l}",
-              "letterSpacing": "{tokens.webfont.letterSpacing.normal}",
-              "paragraphSpacing": "{tokens.webfont.paragraphSpacing.normal}",
-              "textCase": "{tokens.webfont.textCase.none}",
-              "textDecoration": "{tokens.webfont.textDecoration.none}"
+              "fontFamily": "{mds.webfont.fontFamily.web}",
+              "fontWeight": "{mds.webfont.fontWeight.regular}",
+              "lineHeight": "{mds.webfont.lineHeight.l}",
+              "fontSize": "{mds.webfont.fontSize.l}",
+              "letterSpacing": "{mds.webfont.letterSpacing.normal}",
+              "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+              "textCase": "{mds.webfont.textCase.none}",
+              "textDecoration": "{mds.webfont.textDecoration.none}"
             },
             "type": "typography"
           },
-          "name": "TokensFontStyle04lRegular",
+          "name": "MdsFontStyle04lRegular",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "fontStyle",
             "item": "04l",
             "subitem": "regular"
           },
           "path": [
-            "tokens",
+            "mds",
             "fontStyle",
             "04l",
             "regular"
@@ -517,30 +517,30 @@ module.exports = {
             "textDecoration": "none"
           },
           "type": "typography",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": {
-              "fontFamily": "{tokens.webfont.fontFamily.web}",
-              "fontWeight": "{tokens.webfont.fontWeight.medium}",
-              "lineHeight": "{tokens.webfont.lineHeight.l}",
-              "fontSize": "{tokens.webfont.fontSize.l}",
-              "letterSpacing": "{tokens.webfont.letterSpacing.normal}",
-              "paragraphSpacing": "{tokens.webfont.paragraphSpacing.normal}",
-              "textCase": "{tokens.webfont.textCase.none}",
-              "textDecoration": "{tokens.webfont.textDecoration.none}"
+              "fontFamily": "{mds.webfont.fontFamily.web}",
+              "fontWeight": "{mds.webfont.fontWeight.medium}",
+              "lineHeight": "{mds.webfont.lineHeight.l}",
+              "fontSize": "{mds.webfont.fontSize.l}",
+              "letterSpacing": "{mds.webfont.letterSpacing.normal}",
+              "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+              "textCase": "{mds.webfont.textCase.none}",
+              "textDecoration": "{mds.webfont.textDecoration.none}"
             },
             "type": "typography"
           },
-          "name": "TokensFontStyle04lMedium",
+          "name": "MdsFontStyle04lMedium",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "fontStyle",
             "item": "04l",
             "subitem": "medium"
           },
           "path": [
-            "tokens",
+            "mds",
             "fontStyle",
             "04l",
             "medium"
@@ -558,30 +558,30 @@ module.exports = {
             "textDecoration": "none"
           },
           "type": "typography",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": {
-              "fontFamily": "{tokens.webfont.fontFamily.web}",
-              "fontWeight": "{tokens.webfont.fontWeight.bold}",
-              "lineHeight": "{tokens.webfont.lineHeight.l}",
-              "fontSize": "{tokens.webfont.fontSize.l}",
-              "letterSpacing": "{tokens.webfont.letterSpacing.normal}",
-              "paragraphSpacing": "{tokens.webfont.paragraphSpacing.normal}",
-              "textCase": "{tokens.webfont.textCase.none}",
-              "textDecoration": "{tokens.webfont.textDecoration.none}"
+              "fontFamily": "{mds.webfont.fontFamily.web}",
+              "fontWeight": "{mds.webfont.fontWeight.bold}",
+              "lineHeight": "{mds.webfont.lineHeight.l}",
+              "fontSize": "{mds.webfont.fontSize.l}",
+              "letterSpacing": "{mds.webfont.letterSpacing.normal}",
+              "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+              "textCase": "{mds.webfont.textCase.none}",
+              "textDecoration": "{mds.webfont.textDecoration.none}"
             },
             "type": "typography"
           },
-          "name": "TokensFontStyle04lBold",
+          "name": "MdsFontStyle04lBold",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "fontStyle",
             "item": "04l",
             "subitem": "bold"
           },
           "path": [
-            "tokens",
+            "mds",
             "fontStyle",
             "04l",
             "bold"
@@ -599,30 +599,30 @@ module.exports = {
             "textDecoration": "underline"
           },
           "type": "typography",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": {
-              "fontFamily": "{tokens.webfont.fontFamily.web}",
-              "fontWeight": "{tokens.webfont.fontWeight.regular}",
-              "lineHeight": "{tokens.webfont.lineHeight.l}",
-              "fontSize": "{tokens.webfont.fontSize.l}",
-              "letterSpacing": "{tokens.webfont.letterSpacing.normal}",
-              "paragraphSpacing": "{tokens.webfont.paragraphSpacing.normal}",
-              "textCase": "{tokens.webfont.textCase.none}",
-              "textDecoration": "{tokens.webfont.textDecoration.underline}"
+              "fontFamily": "{mds.webfont.fontFamily.web}",
+              "fontWeight": "{mds.webfont.fontWeight.regular}",
+              "lineHeight": "{mds.webfont.lineHeight.l}",
+              "fontSize": "{mds.webfont.fontSize.l}",
+              "letterSpacing": "{mds.webfont.letterSpacing.normal}",
+              "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+              "textCase": "{mds.webfont.textCase.none}",
+              "textDecoration": "{mds.webfont.textDecoration.underline}"
             },
             "type": "typography"
           },
-          "name": "TokensFontStyle04lLink",
+          "name": "MdsFontStyle04lLink",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "fontStyle",
             "item": "04l",
             "subitem": "link"
           },
           "path": [
-            "tokens",
+            "mds",
             "fontStyle",
             "04l",
             "link"
@@ -642,30 +642,30 @@ module.exports = {
             "textDecoration": "none"
           },
           "type": "typography",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": {
-              "fontFamily": "{tokens.webfont.fontFamily.web}",
-              "fontWeight": "{tokens.webfont.fontWeight.regular}",
-              "lineHeight": "{tokens.webfont.lineHeight.xl}",
-              "fontSize": "{tokens.webfont.fontSize.xl}",
-              "letterSpacing": "{tokens.webfont.letterSpacing.normal}",
-              "paragraphSpacing": "{tokens.webfont.paragraphSpacing.normal}",
-              "textCase": "{tokens.webfont.textCase.none}",
-              "textDecoration": "{tokens.webfont.textDecoration.none}"
+              "fontFamily": "{mds.webfont.fontFamily.web}",
+              "fontWeight": "{mds.webfont.fontWeight.regular}",
+              "lineHeight": "{mds.webfont.lineHeight.xl}",
+              "fontSize": "{mds.webfont.fontSize.xl}",
+              "letterSpacing": "{mds.webfont.letterSpacing.normal}",
+              "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+              "textCase": "{mds.webfont.textCase.none}",
+              "textDecoration": "{mds.webfont.textDecoration.none}"
             },
             "type": "typography"
           },
-          "name": "TokensFontStyle05xlRegular",
+          "name": "MdsFontStyle05xlRegular",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "fontStyle",
             "item": "05xl",
             "subitem": "regular"
           },
           "path": [
-            "tokens",
+            "mds",
             "fontStyle",
             "05xl",
             "regular"
@@ -683,30 +683,30 @@ module.exports = {
             "textDecoration": "none"
           },
           "type": "typography",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": {
-              "fontFamily": "{tokens.webfont.fontFamily.web}",
-              "fontWeight": "{tokens.webfont.fontWeight.medium}",
-              "lineHeight": "{tokens.webfont.lineHeight.xl}",
-              "fontSize": "{tokens.webfont.fontSize.xl}",
-              "letterSpacing": "{tokens.webfont.letterSpacing.normal}",
-              "paragraphSpacing": "{tokens.webfont.paragraphSpacing.normal}",
-              "textCase": "{tokens.webfont.textCase.none}",
-              "textDecoration": "{tokens.webfont.textDecoration.none}"
+              "fontFamily": "{mds.webfont.fontFamily.web}",
+              "fontWeight": "{mds.webfont.fontWeight.medium}",
+              "lineHeight": "{mds.webfont.lineHeight.xl}",
+              "fontSize": "{mds.webfont.fontSize.xl}",
+              "letterSpacing": "{mds.webfont.letterSpacing.normal}",
+              "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+              "textCase": "{mds.webfont.textCase.none}",
+              "textDecoration": "{mds.webfont.textDecoration.none}"
             },
             "type": "typography"
           },
-          "name": "TokensFontStyle05xlMedium",
+          "name": "MdsFontStyle05xlMedium",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "fontStyle",
             "item": "05xl",
             "subitem": "medium"
           },
           "path": [
-            "tokens",
+            "mds",
             "fontStyle",
             "05xl",
             "medium"
@@ -724,30 +724,30 @@ module.exports = {
             "textDecoration": "none"
           },
           "type": "typography",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": {
-              "fontFamily": "{tokens.webfont.fontFamily.web}",
-              "fontWeight": "{tokens.webfont.fontWeight.bold}",
-              "lineHeight": "{tokens.webfont.lineHeight.xl}",
-              "fontSize": "{tokens.webfont.fontSize.xl}",
-              "letterSpacing": "{tokens.webfont.letterSpacing.normal}",
-              "paragraphSpacing": "{tokens.webfont.paragraphSpacing.normal}",
-              "textCase": "{tokens.webfont.textCase.none}",
-              "textDecoration": "{tokens.webfont.textDecoration.none}"
+              "fontFamily": "{mds.webfont.fontFamily.web}",
+              "fontWeight": "{mds.webfont.fontWeight.bold}",
+              "lineHeight": "{mds.webfont.lineHeight.xl}",
+              "fontSize": "{mds.webfont.fontSize.xl}",
+              "letterSpacing": "{mds.webfont.letterSpacing.normal}",
+              "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+              "textCase": "{mds.webfont.textCase.none}",
+              "textDecoration": "{mds.webfont.textDecoration.none}"
             },
             "type": "typography"
           },
-          "name": "TokensFontStyle05xlBold",
+          "name": "MdsFontStyle05xlBold",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "fontStyle",
             "item": "05xl",
             "subitem": "bold"
           },
           "path": [
-            "tokens",
+            "mds",
             "fontStyle",
             "05xl",
             "bold"
@@ -767,30 +767,30 @@ module.exports = {
             "textDecoration": "none"
           },
           "type": "typography",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": {
-              "fontFamily": "{tokens.webfont.fontFamily.web}",
-              "fontWeight": "{tokens.webfont.fontWeight.regular}",
-              "lineHeight": "{tokens.webfont.lineHeight.xxl}",
-              "fontSize": "{tokens.webfont.fontSize.xxl}",
-              "letterSpacing": "{tokens.webfont.letterSpacing.small}",
-              "paragraphSpacing": "{tokens.webfont.paragraphSpacing.normal}",
-              "textCase": "{tokens.webfont.textCase.none}",
-              "textDecoration": "{tokens.webfont.textDecoration.none}"
+              "fontFamily": "{mds.webfont.fontFamily.web}",
+              "fontWeight": "{mds.webfont.fontWeight.regular}",
+              "lineHeight": "{mds.webfont.lineHeight.xxl}",
+              "fontSize": "{mds.webfont.fontSize.xxl}",
+              "letterSpacing": "{mds.webfont.letterSpacing.small}",
+              "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+              "textCase": "{mds.webfont.textCase.none}",
+              "textDecoration": "{mds.webfont.textDecoration.none}"
             },
             "type": "typography"
           },
-          "name": "TokensFontStyle06xxlRegular",
+          "name": "MdsFontStyle06xxlRegular",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "fontStyle",
             "item": "06xxl",
             "subitem": "regular"
           },
           "path": [
-            "tokens",
+            "mds",
             "fontStyle",
             "06xxl",
             "regular"
@@ -808,30 +808,30 @@ module.exports = {
             "textDecoration": "none"
           },
           "type": "typography",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": {
-              "fontFamily": "{tokens.webfont.fontFamily.web}",
-              "fontWeight": "{tokens.webfont.fontWeight.medium}",
-              "lineHeight": "{tokens.webfont.lineHeight.xxl}",
-              "fontSize": "{tokens.webfont.fontSize.xxl}",
-              "letterSpacing": "{tokens.webfont.letterSpacing.small}",
-              "paragraphSpacing": "{tokens.webfont.paragraphSpacing.normal}",
-              "textCase": "{tokens.webfont.textCase.none}",
-              "textDecoration": "{tokens.webfont.textDecoration.none}"
+              "fontFamily": "{mds.webfont.fontFamily.web}",
+              "fontWeight": "{mds.webfont.fontWeight.medium}",
+              "lineHeight": "{mds.webfont.lineHeight.xxl}",
+              "fontSize": "{mds.webfont.fontSize.xxl}",
+              "letterSpacing": "{mds.webfont.letterSpacing.small}",
+              "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+              "textCase": "{mds.webfont.textCase.none}",
+              "textDecoration": "{mds.webfont.textDecoration.none}"
             },
             "type": "typography"
           },
-          "name": "TokensFontStyle06xxlMedium",
+          "name": "MdsFontStyle06xxlMedium",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "fontStyle",
             "item": "06xxl",
             "subitem": "medium"
           },
           "path": [
-            "tokens",
+            "mds",
             "fontStyle",
             "06xxl",
             "medium"
@@ -849,30 +849,30 @@ module.exports = {
             "textDecoration": "none"
           },
           "type": "typography",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": {
-              "fontFamily": "{tokens.webfont.fontFamily.web}",
-              "fontWeight": "{tokens.webfont.fontWeight.bold}",
-              "lineHeight": "{tokens.webfont.lineHeight.xxl}",
-              "fontSize": "{tokens.webfont.fontSize.xxl}",
-              "letterSpacing": "{tokens.webfont.letterSpacing.small}",
-              "paragraphSpacing": "{tokens.webfont.paragraphSpacing.normal}",
-              "textCase": "{tokens.webfont.textCase.none}",
-              "textDecoration": "{tokens.webfont.textDecoration.none}"
+              "fontFamily": "{mds.webfont.fontFamily.web}",
+              "fontWeight": "{mds.webfont.fontWeight.bold}",
+              "lineHeight": "{mds.webfont.lineHeight.xxl}",
+              "fontSize": "{mds.webfont.fontSize.xxl}",
+              "letterSpacing": "{mds.webfont.letterSpacing.small}",
+              "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+              "textCase": "{mds.webfont.textCase.none}",
+              "textDecoration": "{mds.webfont.textDecoration.none}"
             },
             "type": "typography"
           },
-          "name": "TokensFontStyle06xxlBold",
+          "name": "MdsFontStyle06xxlBold",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "fontStyle",
             "item": "06xxl",
             "subitem": "bold"
           },
           "path": [
-            "tokens",
+            "mds",
             "fontStyle",
             "06xxl",
             "bold"
@@ -892,30 +892,30 @@ module.exports = {
             "textDecoration": "none"
           },
           "type": "typography",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": {
-              "fontFamily": "{tokens.webfont.fontFamily.web}",
-              "fontWeight": "{tokens.webfont.fontWeight.regular}",
-              "lineHeight": "{tokens.webfont.lineHeight.xxxl}",
-              "fontSize": "{tokens.webfont.fontSize.xxxl}",
-              "letterSpacing": "{tokens.webfont.letterSpacing.smaller}",
-              "paragraphSpacing": "{tokens.webfont.paragraphSpacing.normal}",
-              "textCase": "{tokens.webfont.textCase.none}",
-              "textDecoration": "{tokens.webfont.textDecoration.none}"
+              "fontFamily": "{mds.webfont.fontFamily.web}",
+              "fontWeight": "{mds.webfont.fontWeight.regular}",
+              "lineHeight": "{mds.webfont.lineHeight.xxxl}",
+              "fontSize": "{mds.webfont.fontSize.xxxl}",
+              "letterSpacing": "{mds.webfont.letterSpacing.smaller}",
+              "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+              "textCase": "{mds.webfont.textCase.none}",
+              "textDecoration": "{mds.webfont.textDecoration.none}"
             },
             "type": "typography"
           },
-          "name": "TokensFontStyle07xxxlRegular",
+          "name": "MdsFontStyle07xxxlRegular",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "fontStyle",
             "item": "07xxxl",
             "subitem": "regular"
           },
           "path": [
-            "tokens",
+            "mds",
             "fontStyle",
             "07xxxl",
             "regular"
@@ -933,30 +933,30 @@ module.exports = {
             "textDecoration": "none"
           },
           "type": "typography",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": {
-              "fontFamily": "{tokens.webfont.fontFamily.web}",
-              "fontWeight": "{tokens.webfont.fontWeight.medium}",
-              "lineHeight": "{tokens.webfont.lineHeight.xxxl}",
-              "fontSize": "{tokens.webfont.fontSize.xxxl}",
-              "letterSpacing": "{tokens.webfont.letterSpacing.smaller}",
-              "paragraphSpacing": "{tokens.webfont.paragraphSpacing.normal}",
-              "textCase": "{tokens.webfont.textCase.none}",
-              "textDecoration": "{tokens.webfont.textDecoration.none}"
+              "fontFamily": "{mds.webfont.fontFamily.web}",
+              "fontWeight": "{mds.webfont.fontWeight.medium}",
+              "lineHeight": "{mds.webfont.lineHeight.xxxl}",
+              "fontSize": "{mds.webfont.fontSize.xxxl}",
+              "letterSpacing": "{mds.webfont.letterSpacing.smaller}",
+              "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+              "textCase": "{mds.webfont.textCase.none}",
+              "textDecoration": "{mds.webfont.textDecoration.none}"
             },
             "type": "typography"
           },
-          "name": "TokensFontStyle07xxxlMedium",
+          "name": "MdsFontStyle07xxxlMedium",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "fontStyle",
             "item": "07xxxl",
             "subitem": "medium"
           },
           "path": [
-            "tokens",
+            "mds",
             "fontStyle",
             "07xxxl",
             "medium"
@@ -974,30 +974,30 @@ module.exports = {
             "textDecoration": "none"
           },
           "type": "typography",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": {
-              "fontFamily": "{tokens.webfont.fontFamily.web}",
-              "fontWeight": "{tokens.webfont.fontWeight.bold}",
-              "lineHeight": "{tokens.webfont.lineHeight.xxxl}",
-              "fontSize": "{tokens.webfont.fontSize.xxxl}",
-              "letterSpacing": "{tokens.webfont.letterSpacing.smaller}",
-              "paragraphSpacing": "{tokens.webfont.paragraphSpacing.normal}",
-              "textCase": "{tokens.webfont.textCase.none}",
-              "textDecoration": "{tokens.webfont.textDecoration.none}"
+              "fontFamily": "{mds.webfont.fontFamily.web}",
+              "fontWeight": "{mds.webfont.fontWeight.bold}",
+              "lineHeight": "{mds.webfont.lineHeight.xxxl}",
+              "fontSize": "{mds.webfont.fontSize.xxxl}",
+              "letterSpacing": "{mds.webfont.letterSpacing.smaller}",
+              "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+              "textCase": "{mds.webfont.textCase.none}",
+              "textDecoration": "{mds.webfont.textDecoration.none}"
             },
             "type": "typography"
           },
-          "name": "TokensFontStyle07xxxlBold",
+          "name": "MdsFontStyle07xxxlBold",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "fontStyle",
             "item": "07xxxl",
             "subitem": "bold"
           },
           "path": [
-            "tokens",
+            "mds",
             "fontStyle",
             "07xxxl",
             "bold"

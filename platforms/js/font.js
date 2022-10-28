@@ -1,30 +1,30 @@
 /**
  * Do not edit directly
- * Generated on Fri, 28 Oct 2022 09:29:46 GMT
+ * Generated on Fri, 28 Oct 2022 09:35:24 GMT
  */
 
 module.exports = {
-  "tokens": {
+  "mds": {
     "webfont": {
       "fontFamily": {
         "web": {
           "value": "Avenir",
           "type": "fontFamily",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": "Avenir",
             "type": "fontFamily"
           },
-          "name": "TokensWebfontFontFamilyWeb",
+          "name": "MdsWebfontFontFamilyWeb",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "webfont",
             "item": "fontFamily",
             "subitem": "web"
           },
           "path": [
-            "tokens",
+            "mds",
             "webfont",
             "fontFamily",
             "web"
@@ -35,21 +35,21 @@ module.exports = {
         "xs": {
           "value": "17",
           "type": "lineHeight",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": "17",
             "type": "lineHeight"
           },
-          "name": "TokensWebfontLineHeightXs",
+          "name": "MdsWebfontLineHeightXs",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "webfont",
             "item": "lineHeight",
             "subitem": "xs"
           },
           "path": [
-            "tokens",
+            "mds",
             "webfont",
             "lineHeight",
             "xs"
@@ -58,21 +58,21 @@ module.exports = {
         "s": {
           "value": "18",
           "type": "lineHeight",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": "18",
             "type": "lineHeight"
           },
-          "name": "TokensWebfontLineHeightS",
+          "name": "MdsWebfontLineHeightS",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "webfont",
             "item": "lineHeight",
             "subitem": "s"
           },
           "path": [
-            "tokens",
+            "mds",
             "webfont",
             "lineHeight",
             "s"
@@ -81,21 +81,21 @@ module.exports = {
         "m": {
           "value": "22",
           "type": "lineHeight",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": "22",
             "type": "lineHeight"
           },
-          "name": "TokensWebfontLineHeightM",
+          "name": "MdsWebfontLineHeightM",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "webfont",
             "item": "lineHeight",
             "subitem": "m"
           },
           "path": [
-            "tokens",
+            "mds",
             "webfont",
             "lineHeight",
             "m"
@@ -104,21 +104,21 @@ module.exports = {
         "l": {
           "value": "25",
           "type": "lineHeight",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": "25",
             "type": "lineHeight"
           },
-          "name": "TokensWebfontLineHeightL",
+          "name": "MdsWebfontLineHeightL",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "webfont",
             "item": "lineHeight",
             "subitem": "l"
           },
           "path": [
-            "tokens",
+            "mds",
             "webfont",
             "lineHeight",
             "l"
@@ -127,21 +127,21 @@ module.exports = {
         "xl": {
           "value": "31",
           "type": "lineHeight",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": "31",
             "type": "lineHeight"
           },
-          "name": "TokensWebfontLineHeightXl",
+          "name": "MdsWebfontLineHeightXl",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "webfont",
             "item": "lineHeight",
             "subitem": "xl"
           },
           "path": [
-            "tokens",
+            "mds",
             "webfont",
             "lineHeight",
             "xl"
@@ -150,21 +150,21 @@ module.exports = {
         "xxl": {
           "value": "44",
           "type": "lineHeight",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": "44",
             "type": "lineHeight"
           },
-          "name": "TokensWebfontLineHeightXxl",
+          "name": "MdsWebfontLineHeightXxl",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "webfont",
             "item": "lineHeight",
             "subitem": "xxl"
           },
           "path": [
-            "tokens",
+            "mds",
             "webfont",
             "lineHeight",
             "xxl"
@@ -173,21 +173,21 @@ module.exports = {
         "xxxl": {
           "value": "70",
           "type": "lineHeight",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": "70",
             "type": "lineHeight"
           },
-          "name": "TokensWebfontLineHeightXxxl",
+          "name": "MdsWebfontLineHeightXxxl",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "webfont",
             "item": "lineHeight",
             "subitem": "xxxl"
           },
           "path": [
-            "tokens",
+            "mds",
             "webfont",
             "lineHeight",
             "xxxl"
@@ -198,21 +198,21 @@ module.exports = {
         "regular": {
           "value": "400",
           "type": "fontWeight",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": "400",
             "type": "fontWeight"
           },
-          "name": "TokensWebfontFontWeightRegular",
+          "name": "MdsWebfontFontWeightRegular",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "webfont",
             "item": "fontWeight",
             "subitem": "regular"
           },
           "path": [
-            "tokens",
+            "mds",
             "webfont",
             "fontWeight",
             "regular"
@@ -221,21 +221,21 @@ module.exports = {
         "medium": {
           "value": "500",
           "type": "fontWeight",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": "500",
             "type": "fontWeight"
           },
-          "name": "TokensWebfontFontWeightMedium",
+          "name": "MdsWebfontFontWeightMedium",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "webfont",
             "item": "fontWeight",
             "subitem": "medium"
           },
           "path": [
-            "tokens",
+            "mds",
             "webfont",
             "fontWeight",
             "medium"
@@ -244,21 +244,21 @@ module.exports = {
         "bold": {
           "value": "700",
           "type": "fontWeight",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": "700",
             "type": "fontWeight"
           },
-          "name": "TokensWebfontFontWeightBold",
+          "name": "MdsWebfontFontWeightBold",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "webfont",
             "item": "fontWeight",
             "subitem": "bold"
           },
           "path": [
-            "tokens",
+            "mds",
             "webfont",
             "fontWeight",
             "bold"
@@ -269,21 +269,21 @@ module.exports = {
         "xs": {
           "value": "11",
           "type": "fontSize",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": "11",
             "type": "fontSize"
           },
-          "name": "TokensWebfontFontSizeXs",
+          "name": "MdsWebfontFontSizeXs",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "webfont",
             "item": "fontSize",
             "subitem": "xs"
           },
           "path": [
-            "tokens",
+            "mds",
             "webfont",
             "fontSize",
             "xs"
@@ -292,21 +292,21 @@ module.exports = {
         "s": {
           "value": "13",
           "type": "fontSize",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": "13",
             "type": "fontSize"
           },
-          "name": "TokensWebfontFontSizeS",
+          "name": "MdsWebfontFontSizeS",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "webfont",
             "item": "fontSize",
             "subitem": "s"
           },
           "path": [
-            "tokens",
+            "mds",
             "webfont",
             "fontSize",
             "s"
@@ -315,21 +315,21 @@ module.exports = {
         "m": {
           "value": "15",
           "type": "fontSize",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": "15",
             "type": "fontSize"
           },
-          "name": "TokensWebfontFontSizeM",
+          "name": "MdsWebfontFontSizeM",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "webfont",
             "item": "fontSize",
             "subitem": "m"
           },
           "path": [
-            "tokens",
+            "mds",
             "webfont",
             "fontSize",
             "m"
@@ -338,21 +338,21 @@ module.exports = {
         "l": {
           "value": "17",
           "type": "fontSize",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": "17",
             "type": "fontSize"
           },
-          "name": "TokensWebfontFontSizeL",
+          "name": "MdsWebfontFontSizeL",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "webfont",
             "item": "fontSize",
             "subitem": "l"
           },
           "path": [
-            "tokens",
+            "mds",
             "webfont",
             "fontSize",
             "l"
@@ -361,21 +361,21 @@ module.exports = {
         "xl": {
           "value": "21",
           "type": "fontSize",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": "21",
             "type": "fontSize"
           },
-          "name": "TokensWebfontFontSizeXl",
+          "name": "MdsWebfontFontSizeXl",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "webfont",
             "item": "fontSize",
             "subitem": "xl"
           },
           "path": [
-            "tokens",
+            "mds",
             "webfont",
             "fontSize",
             "xl"
@@ -384,21 +384,21 @@ module.exports = {
         "xxl": {
           "value": "34",
           "type": "fontSize",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": "34",
             "type": "fontSize"
           },
-          "name": "TokensWebfontFontSizeXxl",
+          "name": "MdsWebfontFontSizeXxl",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "webfont",
             "item": "fontSize",
             "subitem": "xxl"
           },
           "path": [
-            "tokens",
+            "mds",
             "webfont",
             "fontSize",
             "xxl"
@@ -407,21 +407,21 @@ module.exports = {
         "xxxl": {
           "value": "60",
           "type": "fontSize",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": "60",
             "type": "fontSize"
           },
-          "name": "TokensWebfontFontSizeXxxl",
+          "name": "MdsWebfontFontSizeXxxl",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "webfont",
             "item": "fontSize",
             "subitem": "xxxl"
           },
           "path": [
-            "tokens",
+            "mds",
             "webfont",
             "fontSize",
             "xxxl"
@@ -432,21 +432,21 @@ module.exports = {
         "normal": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": "0%",
             "type": "letterSpacing"
           },
-          "name": "TokensWebfontLetterSpacingNormal",
+          "name": "MdsWebfontLetterSpacingNormal",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "webfont",
             "item": "letterSpacing",
             "subitem": "normal"
           },
           "path": [
-            "tokens",
+            "mds",
             "webfont",
             "letterSpacing",
             "normal"
@@ -455,21 +455,21 @@ module.exports = {
         "small": {
           "value": "-1%",
           "type": "letterSpacing",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": "-1%",
             "type": "letterSpacing"
           },
-          "name": "TokensWebfontLetterSpacingSmall",
+          "name": "MdsWebfontLetterSpacingSmall",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "webfont",
             "item": "letterSpacing",
             "subitem": "small"
           },
           "path": [
-            "tokens",
+            "mds",
             "webfont",
             "letterSpacing",
             "small"
@@ -478,21 +478,21 @@ module.exports = {
         "smaller": {
           "value": "-1.5%",
           "type": "letterSpacing",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": "-1.5%",
             "type": "letterSpacing"
           },
-          "name": "TokensWebfontLetterSpacingSmaller",
+          "name": "MdsWebfontLetterSpacingSmaller",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "webfont",
             "item": "letterSpacing",
             "subitem": "smaller"
           },
           "path": [
-            "tokens",
+            "mds",
             "webfont",
             "letterSpacing",
             "smaller"
@@ -503,21 +503,21 @@ module.exports = {
         "normal": {
           "value": "0",
           "type": "paragraphSpacing",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": "0",
             "type": "paragraphSpacing"
           },
-          "name": "TokensWebfontParagraphSpacingNormal",
+          "name": "MdsWebfontParagraphSpacingNormal",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "webfont",
             "item": "paragraphSpacing",
             "subitem": "normal"
           },
           "path": [
-            "tokens",
+            "mds",
             "webfont",
             "paragraphSpacing",
             "normal"
@@ -528,21 +528,21 @@ module.exports = {
         "none": {
           "value": "none",
           "type": "textCase",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": "none",
             "type": "textCase"
           },
-          "name": "TokensWebfontTextCaseNone",
+          "name": "MdsWebfontTextCaseNone",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "webfont",
             "item": "textCase",
             "subitem": "none"
           },
           "path": [
-            "tokens",
+            "mds",
             "webfont",
             "textCase",
             "none"
@@ -553,21 +553,21 @@ module.exports = {
         "none": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": "none",
             "type": "textDecoration"
           },
-          "name": "TokensWebfontTextDecorationNone",
+          "name": "MdsWebfontTextDecorationNone",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "webfont",
             "item": "textDecoration",
             "subitem": "none"
           },
           "path": [
-            "tokens",
+            "mds",
             "webfont",
             "textDecoration",
             "none"
@@ -576,21 +576,21 @@ module.exports = {
         "underline": {
           "value": "underline",
           "type": "textDecoration",
-          "filePath": "./design-system/tokens/designTokens.json",
+          "filePath": "./tokens/designTokens.json",
           "isSource": true,
           "original": {
             "value": "underline",
             "type": "textDecoration"
           },
-          "name": "TokensWebfontTextDecorationUnderline",
+          "name": "MdsWebfontTextDecorationUnderline",
           "attributes": {
-            "category": "tokens",
+            "category": "mds",
             "type": "webfont",
             "item": "textDecoration",
             "subitem": "underline"
           },
           "path": [
-            "tokens",
+            "mds",
             "webfont",
             "textDecoration",
             "underline"

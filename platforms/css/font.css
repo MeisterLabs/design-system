@@ -1,32 +1,32 @@
 /**
  * Do not edit directly
- * Generated on Fri, 28 Oct 2022 09:29:46 GMT
+ * Generated on Fri, 28 Oct 2022 09:35:24 GMT
  */
 
 :root {
-  --tokens-webfont-text-decoration-underline: underline;
-  --tokens-webfont-text-decoration-none: none;
-  --tokens-webfont-text-case-none: none;
-  --tokens-webfont-paragraph-spacing-normal: 0;
-  --tokens-webfont-letter-spacing-smaller: -1.5%;
-  --tokens-webfont-letter-spacing-small: -1%;
-  --tokens-webfont-letter-spacing-normal: 0%;
-  --tokens-webfont-font-size-xxxl: 60;
-  --tokens-webfont-font-size-xxl: 34;
-  --tokens-webfont-font-size-xl: 21;
-  --tokens-webfont-font-size-l: 17;
-  --tokens-webfont-font-size-m: 15;
-  --tokens-webfont-font-size-s: 13;
-  --tokens-webfont-font-size-xs: 11;
-  --tokens-webfont-font-weight-bold: 700;
-  --tokens-webfont-font-weight-medium: 500;
-  --tokens-webfont-font-weight-regular: 400;
-  --tokens-webfont-line-height-xxxl: 70;
-  --tokens-webfont-line-height-xxl: 44;
-  --tokens-webfont-line-height-xl: 31;
-  --tokens-webfont-line-height-l: 25;
-  --tokens-webfont-line-height-m: 22;
-  --tokens-webfont-line-height-s: 18;
-  --tokens-webfont-line-height-xs: 17;
-  --tokens-webfont-font-family-web: Avenir;
+  --mds-webfont-text-decoration-underline: underline;
+  --mds-webfont-text-decoration-none: none;
+  --mds-webfont-text-case-none: none;
+  --mds-webfont-paragraph-spacing-normal: 0;
+  --mds-webfont-letter-spacing-smaller: -1.5%;
+  --mds-webfont-letter-spacing-small: -1%;
+  --mds-webfont-letter-spacing-normal: 0%;
+  --mds-webfont-font-size-xxxl: 60;
+  --mds-webfont-font-size-xxl: 34;
+  --mds-webfont-font-size-xl: 21;
+  --mds-webfont-font-size-l: 17;
+  --mds-webfont-font-size-m: 15;
+  --mds-webfont-font-size-s: 13;
+  --mds-webfont-font-size-xs: 11;
+  --mds-webfont-font-weight-bold: 700;
+  --mds-webfont-font-weight-medium: 500;
+  --mds-webfont-font-weight-regular: 400;
+  --mds-webfont-line-height-xxxl: 70;
+  --mds-webfont-line-height-xxl: 44;
+  --mds-webfont-line-height-xl: 31;
+  --mds-webfont-line-height-l: 25;
+  --mds-webfont-line-height-m: 22;
+  --mds-webfont-line-height-s: 18;
+  --mds-webfont-line-height-xs: 17;
+  --mds-webfont-font-family-web: Avenir;
 }
