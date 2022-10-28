@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 28 Oct 2022 09:01:38 GMT
+ * Generated on Fri, 28 Oct 2022 09:07:25 GMT
  */
 
 export const ColorsNavyNavy000 = "#e2f2ff";
