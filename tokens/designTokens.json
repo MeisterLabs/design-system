@@ -1,5 +1,5 @@
 {
-  "tokens": {
+  "mds": {
     "colors": {
       "Navy": {
         "Navy 000": {
@@ -1060,7 +1060,7 @@
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "tokens"
+      "mds"
     ]
   }
 }
