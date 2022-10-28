@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 25 Oct 2022 20:03:31 GMT
+ * Generated on Fri, 28 Oct 2022 09:01:38 GMT
  */
 
 module.exports = {
@@ -9,7 +9,7 @@ module.exports = {
       "web": {
         "value": "Avenir",
         "type": "fontFamily",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": "Avenir",
@@ -32,7 +32,7 @@ module.exports = {
       "xs": {
         "value": "17",
         "type": "lineHeight",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": "17",
@@ -53,7 +53,7 @@ module.exports = {
       "s": {
         "value": "18",
         "type": "lineHeight",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": "18",
@@ -74,7 +74,7 @@ module.exports = {
       "m": {
         "value": "22",
         "type": "lineHeight",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": "22",
@@ -95,7 +95,7 @@ module.exports = {
       "l": {
         "value": "25",
         "type": "lineHeight",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": "25",
@@ -116,7 +116,7 @@ module.exports = {
       "xl": {
         "value": "31",
         "type": "lineHeight",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": "31",
@@ -137,7 +137,7 @@ module.exports = {
       "xxl": {
         "value": "44",
         "type": "lineHeight",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": "44",
@@ -158,7 +158,7 @@ module.exports = {
       "xxxl": {
         "value": "70",
         "type": "lineHeight",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": "70",
@@ -181,7 +181,7 @@ module.exports = {
       "regular": {
         "value": "400",
         "type": "fontWeight",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": "400",
@@ -202,7 +202,7 @@ module.exports = {
       "medium": {
         "value": "500",
         "type": "fontWeight",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": "500",
@@ -223,7 +223,7 @@ module.exports = {
       "bold": {
         "value": "700",
         "type": "fontWeight",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": "700",
@@ -246,7 +246,7 @@ module.exports = {
       "xs": {
         "value": "11",
         "type": "fontSize",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": "11",
@@ -267,7 +267,7 @@ module.exports = {
       "s": {
         "value": "13",
         "type": "fontSize",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": "13",
@@ -288,7 +288,7 @@ module.exports = {
       "m": {
         "value": "15",
         "type": "fontSize",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": "15",
@@ -309,7 +309,7 @@ module.exports = {
       "l": {
         "value": "17",
         "type": "fontSize",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": "17",
@@ -330,7 +330,7 @@ module.exports = {
       "xl": {
         "value": "21",
         "type": "fontSize",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": "21",
@@ -351,7 +351,7 @@ module.exports = {
       "xxl": {
         "value": "34",
         "type": "fontSize",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": "34",
@@ -372,7 +372,7 @@ module.exports = {
       "xxxl": {
         "value": "60",
         "type": "fontSize",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": "60",
@@ -395,7 +395,7 @@ module.exports = {
       "normal": {
         "value": "0%",
         "type": "letterSpacing",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": "0%",
@@ -416,7 +416,7 @@ module.exports = {
       "small": {
         "value": "-1%",
         "type": "letterSpacing",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": "-1%",
@@ -437,7 +437,7 @@ module.exports = {
       "smaller": {
         "value": "-1.5%",
         "type": "letterSpacing",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": "-1.5%",
@@ -460,7 +460,7 @@ module.exports = {
       "normal": {
         "value": "0",
         "type": "paragraphSpacing",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": "0",
@@ -483,7 +483,7 @@ module.exports = {
       "none": {
         "value": "none",
         "type": "textCase",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": "none",
@@ -506,7 +506,7 @@ module.exports = {
       "none": {
         "value": "none",
         "type": "textDecoration",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": "none",
@@ -527,7 +527,7 @@ module.exports = {
       "underline": {
         "value": "underline",
         "type": "textDecoration",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": "underline",

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 25 Oct 2022 20:03:31 GMT
+ * Generated on Fri, 28 Oct 2022 09:01:38 GMT
  */
 
 module.exports = {
@@ -18,7 +18,7 @@ module.exports = {
           "textDecoration": "none"
         },
         "type": "typography",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": {
@@ -57,7 +57,7 @@ module.exports = {
           "textDecoration": "none"
         },
         "type": "typography",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": {
@@ -96,7 +96,7 @@ module.exports = {
           "textDecoration": "none"
         },
         "type": "typography",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": {
@@ -137,7 +137,7 @@ module.exports = {
           "textDecoration": "none"
         },
         "type": "typography",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": {
@@ -176,7 +176,7 @@ module.exports = {
           "textDecoration": "none"
         },
         "type": "typography",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": {
@@ -215,7 +215,7 @@ module.exports = {
           "textDecoration": "none"
         },
         "type": "typography",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": {
@@ -254,7 +254,7 @@ module.exports = {
           "textDecoration": "underline"
         },
         "type": "typography",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": {
@@ -295,7 +295,7 @@ module.exports = {
           "textDecoration": "none"
         },
         "type": "typography",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": {
@@ -334,7 +334,7 @@ module.exports = {
           "textDecoration": "none"
         },
         "type": "typography",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": {
@@ -373,7 +373,7 @@ module.exports = {
           "textDecoration": "none"
         },
         "type": "typography",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": {
@@ -412,7 +412,7 @@ module.exports = {
           "textDecoration": "underline"
         },
         "type": "typography",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": {
@@ -453,7 +453,7 @@ module.exports = {
           "textDecoration": "none"
         },
         "type": "typography",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": {
@@ -492,7 +492,7 @@ module.exports = {
           "textDecoration": "none"
         },
         "type": "typography",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": {
@@ -531,7 +531,7 @@ module.exports = {
           "textDecoration": "none"
         },
         "type": "typography",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": {
@@ -570,7 +570,7 @@ module.exports = {
           "textDecoration": "underline"
         },
         "type": "typography",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": {
@@ -611,7 +611,7 @@ module.exports = {
           "textDecoration": "none"
         },
         "type": "typography",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": {
@@ -650,7 +650,7 @@ module.exports = {
           "textDecoration": "none"
         },
         "type": "typography",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": {
@@ -689,7 +689,7 @@ module.exports = {
           "textDecoration": "none"
         },
         "type": "typography",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": {
@@ -730,7 +730,7 @@ module.exports = {
           "textDecoration": "none"
         },
         "type": "typography",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": {
@@ -769,7 +769,7 @@ module.exports = {
           "textDecoration": "none"
         },
         "type": "typography",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": {
@@ -808,7 +808,7 @@ module.exports = {
           "textDecoration": "none"
         },
         "type": "typography",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": {
@@ -849,7 +849,7 @@ module.exports = {
           "textDecoration": "none"
         },
         "type": "typography",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": {
@@ -888,7 +888,7 @@ module.exports = {
           "textDecoration": "none"
         },
         "type": "typography",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": {
@@ -927,7 +927,7 @@ module.exports = {
           "textDecoration": "none"
         },
         "type": "typography",
-        "filePath": "./platforms/tokens.json",
+        "filePath": "./design-system/platforms/tokens.json",
         "isSource": true,
         "original": {
           "value": {
