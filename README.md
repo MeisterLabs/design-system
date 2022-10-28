@@ -2,7 +2,7 @@
 ![Logo](https://zeroheight.s3.eu-west-1.amazonaws.com/zeroheight-huddle/logos/81302/82868/logo.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3AVNYHQK4QFFEFF5%2F20221015%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20221015T080038Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=53ce854e029ce6e415f95db0ab7bc4de4d93f40d8f7f98d827dd7c4ed311f0a6)
 
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) [![version](https://badgen.net/badge/version/0.0.1/green)](https://badgen.net/badge/version/0.0.1/green) [![release](https://badgen.net/github/release/MeisterLabs/design-system)](https://badgen.net/github/release/MeisterLabs/design-system)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) [![release](https://badgen.net/github/release/MeisterLabs/design-system)](https://badgen.net/github/release/MeisterLabs/design-system)
 
 
 ## Meister Design System (MDS)
