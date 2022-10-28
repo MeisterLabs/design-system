@@ -537,59 +537,59 @@
       },
       "Default": {
         "Sky": {
-          "value": "{colors.Blue.Blue 000}",
+          "value": "{mds.colors.Blue.Blue 000}",
           "type": "color"
         },
         "Banana": {
-          "value": "{colors.Yellow.Yellow 100}",
+          "value": "{mds.colors.Yellow.Yellow 100}",
           "type": "color"
         },
         "Blue": {
-          "value": "{colors.Blue.Blue 500}",
+          "value": "{mds.colors.Blue.Blue 500}",
           "type": "color"
         },
         "Navy": {
-          "value": "{colors.Navy.Navy 500}",
+          "value": "{mds.colors.Navy.Navy 500}",
           "type": "color"
         },
         "Cyan": {
-          "value": "{colors.Cyan.Cyan 500}",
+          "value": "{mds.colors.Cyan.Cyan 500}",
           "type": "color"
         },
         "Grass": {
-          "value": "{colors.Grass.Grass 500}",
+          "value": "{mds.colors.Grass.Grass 500}",
           "type": "color"
         },
         "Green": {
-          "value": "{colors.Green.Green 500}",
+          "value": "{mds.colors.Green.Green 500}",
           "type": "color"
         },
         "Yellow": {
-          "value": "{colors.Yellow.Yellow 500}",
+          "value": "{mds.colors.Yellow.Yellow 500}",
           "type": "color"
         },
         "Orange": {
-          "value": "{colors.Orange.Orange 500}",
+          "value": "{mds.colors.Orange.Orange 500}",
           "type": "color"
         },
         "Red": {
-          "value": "{colors.Red.Red 600}",
+          "value": "{mds.colors.Red.Red 600}",
           "type": "color"
         },
         "Pink": {
-          "value": "{colors.Pink.Pink 500}",
+          "value": "{mds.colors.Pink.Pink 500}",
           "type": "color"
         },
         "Purple": {
-          "value": "{colors.Purple.Purple 500}",
+          "value": "{mds.colors.Purple.Purple 500}",
           "type": "color"
         },
         "Black": {
-          "value": "{colors.Grey.Grey 1000}",
+          "value": "{mds.colors.Grey.Grey 1000}",
           "type": "color"
         },
         "White": {
-          "value": "{colors.Grey.Grey 000}",
+          "value": "{mds.colors.Grey.Grey 000}",
           "type": "color"
         }
       }
@@ -716,40 +716,40 @@
       "01xs": {
         "regular": {
           "value": {
-            "fontFamily": "{webfont.fontFamily.web}",
-            "fontWeight": "{webfont.fontWeight.regular}",
-            "lineHeight": "{webfont.lineHeight.xs}",
-            "fontSize": "{webfont.fontSize.xs}",
-            "letterSpacing": "{webfont.letterSpacing.normal}",
-            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
-            "textCase": "{webfont.textCase.none}",
-            "textDecoration": "{webfont.textDecoration.none}"
+            "fontFamily": "{mds.webfont.fontFamily.web}",
+            "fontWeight": "{mds.webfont.fontWeight.regular}",
+            "lineHeight": "{mds.webfont.lineHeight.xs}",
+            "fontSize": "{mds.webfont.fontSize.xs}",
+            "letterSpacing": "{mds.webfont.letterSpacing.normal}",
+            "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+            "textCase": "{mds.webfont.textCase.none}",
+            "textDecoration": "{mds.webfont.textDecoration.none}"
           },
           "type": "typography"
         },
         "medium": {
           "value": {
-            "fontFamily": "{webfont.fontFamily.web}",
-            "fontWeight": "{webfont.fontWeight.medium}",
-            "lineHeight": "{webfont.lineHeight.xs}",
-            "fontSize": "{webfont.fontSize.xs}",
-            "letterSpacing": "{webfont.letterSpacing.normal}",
-            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
-            "textCase": "{webfont.textCase.none}",
-            "textDecoration": "{webfont.textDecoration.none}"
+            "fontFamily": "{mds.webfont.fontFamily.web}",
+            "fontWeight": "{mds.webfont.fontWeight.medium}",
+            "lineHeight": "{mds.webfont.lineHeight.xs}",
+            "fontSize": "{mds.webfont.fontSize.xs}",
+            "letterSpacing": "{mds.webfont.letterSpacing.normal}",
+            "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+            "textCase": "{mds.webfont.textCase.none}",
+            "textDecoration": "{mds.webfont.textDecoration.none}"
           },
           "type": "typography"
         },
         "bold": {
           "value": {
-            "fontFamily": "{webfont.fontFamily.web}",
-            "fontWeight": "{webfont.fontWeight.bold}",
-            "lineHeight": "{webfont.lineHeight.xs}",
-            "fontSize": "{webfont.fontSize.xs}",
-            "letterSpacing": "{webfont.letterSpacing.normal}",
-            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
-            "textCase": "{webfont.textCase.none}",
-            "textDecoration": "{webfont.textDecoration.none}"
+            "fontFamily": "{mds.webfont.fontFamily.web}",
+            "fontWeight": "{mds.webfont.fontWeight.bold}",
+            "lineHeight": "{mds.webfont.lineHeight.xs}",
+            "fontSize": "{mds.webfont.fontSize.xs}",
+            "letterSpacing": "{mds.webfont.letterSpacing.normal}",
+            "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+            "textCase": "{mds.webfont.textCase.none}",
+            "textDecoration": "{mds.webfont.textDecoration.none}"
           },
           "type": "typography"
         }
@@ -757,53 +757,53 @@
       "02s": {
         "regular": {
           "value": {
-            "fontFamily": "{webfont.fontFamily.web}",
-            "fontWeight": "{webfont.fontWeight.regular}",
-            "lineHeight": "{webfont.lineHeight.s}",
-            "fontSize": "{webfont.fontSize.s}",
-            "letterSpacing": "{webfont.letterSpacing.normal}",
-            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
-            "textCase": "{webfont.textCase.none}",
-            "textDecoration": "{webfont.textDecoration.none}"
+            "fontFamily": "{mds.webfont.fontFamily.web}",
+            "fontWeight": "{mds.webfont.fontWeight.regular}",
+            "lineHeight": "{mds.webfont.lineHeight.s}",
+            "fontSize": "{mds.webfont.fontSize.s}",
+            "letterSpacing": "{mds.webfont.letterSpacing.normal}",
+            "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+            "textCase": "{mds.webfont.textCase.none}",
+            "textDecoration": "{mds.webfont.textDecoration.none}"
           },
           "type": "typography"
         },
         "medium": {
           "value": {
-            "fontFamily": "{webfont.fontFamily.web}",
-            "fontWeight": "{webfont.fontWeight.medium}",
-            "lineHeight": "{webfont.lineHeight.s}",
-            "fontSize": "{webfont.fontSize.s}",
-            "letterSpacing": "{webfont.letterSpacing.normal}",
-            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
-            "textCase": "{webfont.textCase.none}",
-            "textDecoration": "{webfont.textDecoration.none}"
+            "fontFamily": "{mds.webfont.fontFamily.web}",
+            "fontWeight": "{mds.webfont.fontWeight.medium}",
+            "lineHeight": "{mds.webfont.lineHeight.s}",
+            "fontSize": "{mds.webfont.fontSize.s}",
+            "letterSpacing": "{mds.webfont.letterSpacing.normal}",
+            "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+            "textCase": "{mds.webfont.textCase.none}",
+            "textDecoration": "{mds.webfont.textDecoration.none}"
           },
           "type": "typography"
         },
         "bold": {
           "value": {
-            "fontFamily": "{webfont.fontFamily.web}",
-            "fontWeight": "{webfont.fontWeight.bold}",
-            "lineHeight": "{webfont.lineHeight.s}",
-            "fontSize": "{webfont.fontSize.s}",
-            "letterSpacing": "{webfont.letterSpacing.normal}",
-            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
-            "textCase": "{webfont.textCase.none}",
-            "textDecoration": "{webfont.textDecoration.none}"
+            "fontFamily": "{mds.webfont.fontFamily.web}",
+            "fontWeight": "{mds.webfont.fontWeight.bold}",
+            "lineHeight": "{mds.webfont.lineHeight.s}",
+            "fontSize": "{mds.webfont.fontSize.s}",
+            "letterSpacing": "{mds.webfont.letterSpacing.normal}",
+            "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+            "textCase": "{mds.webfont.textCase.none}",
+            "textDecoration": "{mds.webfont.textDecoration.none}"
           },
           "type": "typography"
         },
         "link": {
           "value": {
-            "fontFamily": "{webfont.fontFamily.web}",
-            "fontWeight": "{webfont.fontWeight.regular}",
-            "lineHeight": "{webfont.lineHeight.s}",
-            "fontSize": "{webfont.fontSize.s}",
-            "letterSpacing": "{webfont.letterSpacing.normal}",
-            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
-            "textCase": "{webfont.textCase.none}",
-            "textDecoration": "{webfont.textDecoration.underline}"
+            "fontFamily": "{mds.webfont.fontFamily.web}",
+            "fontWeight": "{mds.webfont.fontWeight.regular}",
+            "lineHeight": "{mds.webfont.lineHeight.s}",
+            "fontSize": "{mds.webfont.fontSize.s}",
+            "letterSpacing": "{mds.webfont.letterSpacing.normal}",
+            "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+            "textCase": "{mds.webfont.textCase.none}",
+            "textDecoration": "{mds.webfont.textDecoration.underline}"
           },
           "type": "typography"
         }
@@ -811,53 +811,53 @@
       "03m": {
         "regular": {
           "value": {
-            "fontFamily": "{webfont.fontFamily.web}",
-            "fontWeight": "{webfont.fontWeight.regular}",
-            "lineHeight": "{webfont.lineHeight.m}",
-            "fontSize": "{webfont.fontSize.m}",
-            "letterSpacing": "{webfont.letterSpacing.normal}",
-            "paragraphSpacing": "webfont.paragraphSpacing.normal}",
-            "textCase": "{webfont.textCase.none}",
-            "textDecoration": "{webfont.textDecoration.none}"
+            "fontFamily": "{mds.webfont.fontFamily.web}",
+            "fontWeight": "{mds.webfont.fontWeight.regular}",
+            "lineHeight": "{mds.webfont.lineHeight.m}",
+            "fontSize": "{mds.webfont.fontSize.m}",
+            "letterSpacing": "{mds.webfont.letterSpacing.normal}",
+            "paragraphSpacing": "mds.webfont.paragraphSpacing.normal}",
+            "textCase": "{mds.webfont.textCase.none}",
+            "textDecoration": "{mds.webfont.textDecoration.none}"
           },
           "type": "typography"
         },
         "medium": {
           "value": {
-            "fontFamily": "{webfont.fontFamily.web}",
-            "fontWeight": "{webfont.fontWeight.medium}",
-            "lineHeight": "{webfont.lineHeight.m}",
-            "fontSize": "{webfont.fontSize.m}",
-            "letterSpacing": "{webfont.letterSpacing.normal}",
-            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
-            "textCase": "{webfont.textCase.none}",
-            "textDecoration": "{webfont.textDecoration.none}"
+            "fontFamily": "{mds.webfont.fontFamily.web}",
+            "fontWeight": "{mds.webfont.fontWeight.medium}",
+            "lineHeight": "{mds.webfont.lineHeight.m}",
+            "fontSize": "{mds.webfont.fontSize.m}",
+            "letterSpacing": "{mds.webfont.letterSpacing.normal}",
+            "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+            "textCase": "{mds.webfont.textCase.none}",
+            "textDecoration": "{mds.webfont.textDecoration.none}"
           },
           "type": "typography"
         },
         "bold": {
           "value": {
-            "fontFamily": "{webfont.fontFamily.web}",
-            "fontWeight": "{webfont.fontWeight.bold}",
-            "lineHeight": "{webfont.lineHeight.m}",
-            "fontSize": "{webfont.fontSize.m}",
-            "letterSpacing": "{webfont.letterSpacing.normal}",
-            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
-            "textCase": "{webfont.textCase.none}",
-            "textDecoration": "{webfont.textDecoration.none}"
+            "fontFamily": "{mds.webfont.fontFamily.web}",
+            "fontWeight": "{mds.webfont.fontWeight.bold}",
+            "lineHeight": "{mds.webfont.lineHeight.m}",
+            "fontSize": "{mds.webfont.fontSize.m}",
+            "letterSpacing": "{mds.webfont.letterSpacing.normal}",
+            "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+            "textCase": "{mds.webfont.textCase.none}",
+            "textDecoration": "{mds.webfont.textDecoration.none}"
           },
           "type": "typography"
         },
         "link": {
           "value": {
-            "fontFamily": "{webfont.fontFamily.web}",
-            "fontWeight": "{webfont.fontWeight.regular}",
-            "lineHeight": "{webfont.lineHeight.m}",
-            "fontSize": "{webfont.fontSize.m}",
-            "letterSpacing": "{webfont.letterSpacing.normal}",
-            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
-            "textCase": "{webfont.textCase.none}",
-            "textDecoration": "{webfont.textDecoration.underline}"
+            "fontFamily": "{mds.webfont.fontFamily.web}",
+            "fontWeight": "{mds.webfont.fontWeight.regular}",
+            "lineHeight": "{mds.webfont.lineHeight.m}",
+            "fontSize": "{mds.webfont.fontSize.m}",
+            "letterSpacing": "{mds.webfont.letterSpacing.normal}",
+            "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+            "textCase": "{mds.webfont.textCase.none}",
+            "textDecoration": "{mds.webfont.textDecoration.underline}"
           },
           "type": "typography"
         }
@@ -865,53 +865,53 @@
       "04l": {
         "regular": {
           "value": {
-            "fontFamily": "{webfont.fontFamily.web}",
-            "fontWeight": "{webfont.fontWeight.regular}",
-            "lineHeight": "{webfont.lineHeight.l}",
-            "fontSize": "{webfont.fontSize.l}",
-            "letterSpacing": "{webfont.letterSpacing.normal}",
-            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
-            "textCase": "{webfont.textCase.none}",
-            "textDecoration": "{webfont.textDecoration.none}"
+            "fontFamily": "{mds.webfont.fontFamily.web}",
+            "fontWeight": "{mds.webfont.fontWeight.regular}",
+            "lineHeight": "{mds.webfont.lineHeight.l}",
+            "fontSize": "{mds.webfont.fontSize.l}",
+            "letterSpacing": "{mds.webfont.letterSpacing.normal}",
+            "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+            "textCase": "{mds.webfont.textCase.none}",
+            "textDecoration": "{mds.webfont.textDecoration.none}"
           },
           "type": "typography"
         },
         "medium": {
           "value": {
-            "fontFamily": "{webfont.fontFamily.web}",
-            "fontWeight": "{webfont.fontWeight.medium}",
-            "lineHeight": "{webfont.lineHeight.l}",
-            "fontSize": "{webfont.fontSize.l}",
-            "letterSpacing": "{webfont.letterSpacing.normal}",
-            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
-            "textCase": "{webfont.textCase.none}",
-            "textDecoration": "{webfont.textDecoration.none}"
+            "fontFamily": "{mds.webfont.fontFamily.web}",
+            "fontWeight": "{mds.webfont.fontWeight.medium}",
+            "lineHeight": "{mds.webfont.lineHeight.l}",
+            "fontSize": "{mds.webfont.fontSize.l}",
+            "letterSpacing": "{mds.webfont.letterSpacing.normal}",
+            "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+            "textCase": "{mds.webfont.textCase.none}",
+            "textDecoration": "{mds.webfont.textDecoration.none}"
           },
           "type": "typography"
         },
         "bold": {
           "value": {
-            "fontFamily": "{webfont.fontFamily.web}",
-            "fontWeight": "{webfont.fontWeight.bold}",
-            "lineHeight": "{webfont.lineHeight.l}",
-            "fontSize": "{webfont.fontSize.l}",
-            "letterSpacing": "{webfont.letterSpacing.normal}",
-            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
-            "textCase": "{webfont.textCase.none}",
-            "textDecoration": "{webfont.textDecoration.none}"
+            "fontFamily": "{mds.webfont.fontFamily.web}",
+            "fontWeight": "{mds.webfont.fontWeight.bold}",
+            "lineHeight": "{mds.webfont.lineHeight.l}",
+            "fontSize": "{mds.webfont.fontSize.l}",
+            "letterSpacing": "{mds.webfont.letterSpacing.normal}",
+            "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+            "textCase": "{mds.webfont.textCase.none}",
+            "textDecoration": "{mds.webfont.textDecoration.none}"
           },
           "type": "typography"
         },
         "link": {
           "value": {
-            "fontFamily": "{webfont.fontFamily.web}",
-            "fontWeight": "{webfont.fontWeight.regular}",
-            "lineHeight": "{webfont.lineHeight.l}",
-            "fontSize": "{webfont.fontSize.l}",
-            "letterSpacing": "{webfont.letterSpacing.normal}",
-            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
-            "textCase": "{webfont.textCase.none}",
-            "textDecoration": "{webfont.textDecoration.underline}"
+            "fontFamily": "{mds.webfont.fontFamily.web}",
+            "fontWeight": "{mds.webfont.fontWeight.regular}",
+            "lineHeight": "{mds.webfont.lineHeight.l}",
+            "fontSize": "{mds.webfont.fontSize.l}",
+            "letterSpacing": "{mds.webfont.letterSpacing.normal}",
+            "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+            "textCase": "{mds.webfont.textCase.none}",
+            "textDecoration": "{mds.webfont.textDecoration.underline}"
           },
           "type": "typography"
         }
@@ -919,40 +919,40 @@
       "05xl": {
         "regular": {
           "value": {
-            "fontFamily": "{webfont.fontFamily.web}",
-            "fontWeight": "{webfont.fontWeight.regular}",
-            "lineHeight": "{webfont.lineHeight.xl}",
-            "fontSize": "{webfont.fontSize.xl}",
-            "letterSpacing": "{webfont.letterSpacing.normal}",
-            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
-            "textCase": "{webfont.textCase.none}",
-            "textDecoration": "{webfont.textDecoration.none}"
+            "fontFamily": "{mds.webfont.fontFamily.web}",
+            "fontWeight": "{mds.webfont.fontWeight.regular}",
+            "lineHeight": "{mds.webfont.lineHeight.xl}",
+            "fontSize": "{mds.webfont.fontSize.xl}",
+            "letterSpacing": "{mds.webfont.letterSpacing.normal}",
+            "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+            "textCase": "{mds.webfont.textCase.none}",
+            "textDecoration": "{mds.webfont.textDecoration.none}"
           },
           "type": "typography"
         },
         "medium": {
           "value": {
-            "fontFamily": "{webfont.fontFamily.web}",
-            "fontWeight": "{webfont.fontWeight.medium}",
-            "lineHeight": "{webfont.lineHeight.xl}",
-            "fontSize": "{webfont.fontSize.xl}",
-            "letterSpacing": "{webfont.letterSpacing.normal}",
-            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
-            "textCase": "{webfont.textCase.none}",
-            "textDecoration": "{webfont.textDecoration.none}"
+            "fontFamily": "{mds.webfont.fontFamily.web}",
+            "fontWeight": "{mds.webfont.fontWeight.medium}",
+            "lineHeight": "{mds.webfont.lineHeight.xl}",
+            "fontSize": "{mds.webfont.fontSize.xl}",
+            "letterSpacing": "{mds.webfont.letterSpacing.normal}",
+            "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+            "textCase": "{mds.webfont.textCase.none}",
+            "textDecoration": "{mds.webfont.textDecoration.none}"
           },
           "type": "typography"
         },
         "bold": {
           "value": {
-            "fontFamily": "{webfont.fontFamily.web}",
-            "fontWeight": "{webfont.fontWeight.bold}",
-            "lineHeight": "{webfont.lineHeight.xl}",
-            "fontSize": "{webfont.fontSize.xl}",
-            "letterSpacing": "{webfont.letterSpacing.normal}",
-            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
-            "textCase": "{webfont.textCase.none}",
-            "textDecoration": "{webfont.textDecoration.none}"
+            "fontFamily": "{mds.webfont.fontFamily.web}",
+            "fontWeight": "{mds.webfont.fontWeight.bold}",
+            "lineHeight": "{mds.webfont.lineHeight.xl}",
+            "fontSize": "{mds.webfont.fontSize.xl}",
+            "letterSpacing": "{mds.webfont.letterSpacing.normal}",
+            "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+            "textCase": "{mds.webfont.textCase.none}",
+            "textDecoration": "{mds.webfont.textDecoration.none}"
           },
           "type": "typography"
         }
@@ -960,40 +960,40 @@
       "06xxl": {
         "regular": {
           "value": {
-            "fontFamily": "{webfont.fontFamily.web}",
-            "fontWeight": "{webfont.fontWeight.regular}",
-            "lineHeight": "{webfont.lineHeight.xxl}",
-            "fontSize": "{webfont.fontSize.xxl}",
-            "letterSpacing": "{webfont.letterSpacing.small}",
-            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
-            "textCase": "{webfont.textCase.none}",
-            "textDecoration": "{webfont.textDecoration.none}"
+            "fontFamily": "{mds.webfont.fontFamily.web}",
+            "fontWeight": "{mds.webfont.fontWeight.regular}",
+            "lineHeight": "{mds.webfont.lineHeight.xxl}",
+            "fontSize": "{mds.webfont.fontSize.xxl}",
+            "letterSpacing": "{mds.webfont.letterSpacing.small}",
+            "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+            "textCase": "{mds.webfont.textCase.none}",
+            "textDecoration": "{mds.webfont.textDecoration.none}"
           },
           "type": "typography"
         },
         "medium": {
           "value": {
-            "fontFamily": "{webfont.fontFamily.web}",
-            "fontWeight": "{webfont.fontWeight.medium}",
-            "lineHeight": "{webfont.lineHeight.xxl}",
-            "fontSize": "{webfont.fontSize.xxl}",
-            "letterSpacing": "{webfont.letterSpacing.small}",
-            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
-            "textCase": "{webfont.textCase.none}",
-            "textDecoration": "{webfont.textDecoration.none}"
+            "fontFamily": "{mds.webfont.fontFamily.web}",
+            "fontWeight": "{mds.webfont.fontWeight.medium}",
+            "lineHeight": "{mds.webfont.lineHeight.xxl}",
+            "fontSize": "{mds.webfont.fontSize.xxl}",
+            "letterSpacing": "{mds.webfont.letterSpacing.small}",
+            "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+            "textCase": "{mds.webfont.textCase.none}",
+            "textDecoration": "{mds.webfont.textDecoration.none}"
           },
           "type": "typography"
         },
         "bold": {
           "value": {
-            "fontFamily": "{webfont.fontFamily.web}",
-            "fontWeight": "{webfont.fontWeight.bold}",
-            "lineHeight": "{webfont.lineHeight.xxl}",
-            "fontSize": "{webfont.fontSize.xxl}",
-            "letterSpacing": "{webfont.letterSpacing.small}",
-            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
-            "textCase": "{webfont.textCase.none}",
-            "textDecoration": "{webfont.textDecoration.none}"
+            "fontFamily": "{mds.webfont.fontFamily.web}",
+            "fontWeight": "{mds.webfont.fontWeight.bold}",
+            "lineHeight": "{mds.webfont.lineHeight.xxl}",
+            "fontSize": "{mds.webfont.fontSize.xxl}",
+            "letterSpacing": "{mds.webfont.letterSpacing.small}",
+            "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+            "textCase": "{mds.webfont.textCase.none}",
+            "textDecoration": "{mds.webfont.textDecoration.none}"
           },
           "type": "typography"
         }
@@ -1001,40 +1001,40 @@
       "07xxxl": {
         "regular": {
           "value": {
-            "fontFamily": "{webfont.fontFamily.web}",
-            "fontWeight": "{webfont.fontWeight.regular}",
-            "lineHeight": "{webfont.lineHeight.xxxl}",
-            "fontSize": "{webfont.fontSize.xxxl}",
-            "letterSpacing": "{webfont.letterSpacing.smaller}",
-            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
-            "textCase": "{webfont.textCase.none}",
-            "textDecoration": "{webfont.textDecoration.none}"
+            "fontFamily": "{mds.webfont.fontFamily.web}",
+            "fontWeight": "{mds.webfont.fontWeight.regular}",
+            "lineHeight": "{mds.webfont.lineHeight.xxxl}",
+            "fontSize": "{mds.webfont.fontSize.xxxl}",
+            "letterSpacing": "{mds.webfont.letterSpacing.smaller}",
+            "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+            "textCase": "{mds.webfont.textCase.none}",
+            "textDecoration": "{mds.webfont.textDecoration.none}"
           },
           "type": "typography"
         },
         "medium": {
           "value": {
-            "fontFamily": "{webfont.fontFamily.web}",
-            "fontWeight": "{webfont.fontWeight.medium}",
-            "lineHeight": "{webfont.lineHeight.xxxl}",
-            "fontSize": "{webfont.fontSize.xxxl}",
-            "letterSpacing": "{webfont.letterSpacing.smaller}",
-            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
-            "textCase": "{webfont.textCase.none}",
-            "textDecoration": "{webfont.textDecoration.none}"
+            "fontFamily": "{mds.webfont.fontFamily.web}",
+            "fontWeight": "{mds.webfont.fontWeight.medium}",
+            "lineHeight": "{mds.webfont.lineHeight.xxxl}",
+            "fontSize": "{mds.webfont.fontSize.xxxl}",
+            "letterSpacing": "{mds.webfont.letterSpacing.smaller}",
+            "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+            "textCase": "{mds.webfont.textCase.none}",
+            "textDecoration": "{mds.webfont.textDecoration.none}"
           },
           "type": "typography"
         },
         "bold": {
           "value": {
-            "fontFamily": "{webfont.fontFamily.web}",
-            "fontWeight": "{webfont.fontWeight.bold}",
-            "lineHeight": "{webfont.lineHeight.xxxl}",
-            "fontSize": "{webfont.fontSize.xxxl}",
-            "letterSpacing": "{webfont.letterSpacing.smaller}",
-            "paragraphSpacing": "{webfont.paragraphSpacing.normal}",
-            "textCase": "{webfont.textCase.none}",
-            "textDecoration": "{webfont.textDecoration.none}"
+            "fontFamily": "{mds.webfont.fontFamily.web}",
+            "fontWeight": "{mds.webfont.fontWeight.bold}",
+            "lineHeight": "{mds.webfont.lineHeight.xxxl}",
+            "fontSize": "{mds.webfont.fontSize.xxxl}",
+            "letterSpacing": "{mds.webfont.letterSpacing.smaller}",
+            "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
+            "textCase": "{mds.webfont.textCase.none}",
+            "textDecoration": "{mds.webfont.textDecoration.none}"
           },
           "type": "typography"
         }
