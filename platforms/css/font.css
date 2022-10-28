@@ -1,32 +1,32 @@
 /**
  * Do not edit directly
- * Generated on Fri, 28 Oct 2022 09:07:25 GMT
+ * Generated on Fri, 28 Oct 2022 09:29:46 GMT
  */
 
 :root {
-  --webfont-text-decoration-underline: underline;
-  --webfont-text-decoration-none: none;
-  --webfont-text-case-none: none;
-  --webfont-paragraph-spacing-normal: 0;
-  --webfont-letter-spacing-smaller: -1.5%;
-  --webfont-letter-spacing-small: -1%;
-  --webfont-letter-spacing-normal: 0%;
-  --webfont-font-size-xxxl: 60px;
-  --webfont-font-size-xxl: 34px;
-  --webfont-font-size-xl: 21px;
-  --webfont-font-size-l: 17px;
-  --webfont-font-size-m: 15px;
-  --webfont-font-size-s: 13px;
-  --webfont-font-size-xs: 11px;
-  --webfont-font-weight-bold: 700;
-  --webfont-font-weight-medium: 500;
-  --webfont-font-weight-regular: 400;
-  --webfont-line-height-xxxl: 70px;
-  --webfont-line-height-xxl: 44px;
-  --webfont-line-height-xl: 31px;
-  --webfont-line-height-l: 25px;
-  --webfont-line-height-m: 22px;
-  --webfont-line-height-s: 18px;
-  --webfont-line-height-xs: 17px;
-  --webfont-font-family-web: Avenir;
+  --tokens-webfont-text-decoration-underline: underline;
+  --tokens-webfont-text-decoration-none: none;
+  --tokens-webfont-text-case-none: none;
+  --tokens-webfont-paragraph-spacing-normal: 0;
+  --tokens-webfont-letter-spacing-smaller: -1.5%;
+  --tokens-webfont-letter-spacing-small: -1%;
+  --tokens-webfont-letter-spacing-normal: 0%;
+  --tokens-webfont-font-size-xxxl: 60;
+  --tokens-webfont-font-size-xxl: 34;
+  --tokens-webfont-font-size-xl: 21;
+  --tokens-webfont-font-size-l: 17;
+  --tokens-webfont-font-size-m: 15;
+  --tokens-webfont-font-size-s: 13;
+  --tokens-webfont-font-size-xs: 11;
+  --tokens-webfont-font-weight-bold: 700;
+  --tokens-webfont-font-weight-medium: 500;
+  --tokens-webfont-font-weight-regular: 400;
+  --tokens-webfont-line-height-xxxl: 70;
+  --tokens-webfont-line-height-xxl: 44;
+  --tokens-webfont-line-height-xl: 31;
+  --tokens-webfont-line-height-l: 25;
+  --tokens-webfont-line-height-m: 22;
+  --tokens-webfont-line-height-s: 18;
+  --tokens-webfont-line-height-xs: 17;
+  --tokens-webfont-font-family-web: Avenir;
 }
