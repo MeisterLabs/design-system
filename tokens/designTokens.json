@@ -536,7 +536,7 @@
     },
     "Default": {
       "Sky": {
-        "value": "{Blue.Blue 000}",
+        "value": "{colors.Blue.Blue 000}",
         "type": "color"
       },
       "Banana": {
