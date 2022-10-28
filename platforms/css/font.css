@@ -1,0 +1,32 @@
+/**
+ * Do not edit directly
+ * Generated on Fri, 28 Oct 2022 09:01:38 GMT
+ */
+
+:root {
+  --webfont-text-decoration-underline: underline;
+  --webfont-text-decoration-none: none;
+  --webfont-text-case-none: none;
+  --webfont-paragraph-spacing-normal: 0;
+  --webfont-letter-spacing-smaller: -1.5%;
+  --webfont-letter-spacing-small: -1%;
+  --webfont-letter-spacing-normal: 0%;
+  --webfont-font-size-xxxl: 60px;
+  --webfont-font-size-xxl: 34px;
+  --webfont-font-size-xl: 21px;
+  --webfont-font-size-l: 17px;
+  --webfont-font-size-m: 15px;
+  --webfont-font-size-s: 13px;
+  --webfont-font-size-xs: 11px;
+  --webfont-font-weight-bold: 700;
+  --webfont-font-weight-medium: 500;
+  --webfont-font-weight-regular: 400;
+  --webfont-line-height-xxxl: 70px;
+  --webfont-line-height-xxl: 44px;
+  --webfont-line-height-xl: 31px;
+  --webfont-line-height-l: 25px;
+  --webfont-line-height-m: 22px;
+  --webfont-line-height-s: 18px;
+  --webfont-line-height-xs: 17px;
+  --webfont-font-family-web: Avenir;
+}
