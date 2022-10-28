@@ -536,7 +536,7 @@
     },
     "Default": {
       "Sky": {
-        "value": "{colors.Blue.Blue 000}",
+        "value": "{Blue.Blue 000}",
         "type": "color"
       },
       "Banana": {
@@ -1038,5 +1038,13 @@
         "type": "typography"
       }
     }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "colors",
+      "webfont",
+      "fontStyle"
+    ]
   }
 }
