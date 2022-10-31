@@ -712,7 +712,7 @@
         }
       }
     },
-    "fontStyle": {
+    "fontStyle":{
       "01xs": {
         "regular": {
           "value": {
@@ -816,7 +816,7 @@
             "lineHeight": "{mds.webfont.lineHeight.m}",
             "fontSize": "{mds.webfont.fontSize.m}",
             "letterSpacing": "{mds.webfont.letterSpacing.normal}",
-            "paragraphSpacing": "mds.webfont.paragraphSpacing.normal}",
+            "paragraphSpacing": "{mds.webfont.paragraphSpacing.normal}",
             "textCase": "{mds.webfont.textCase.none}",
             "textDecoration": "{mds.webfont.textDecoration.none}"
           },
