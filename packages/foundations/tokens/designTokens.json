@@ -1087,43 +1087,10 @@
       }
     }
   },
-  "Spacing": {
-    "spacing": {
-      "xs": {
-        "value": "8",
-        "type": "spacing"
-      },
-      "s": {
-        "value": "16",
-        "type": "spacing"
-      },
-      "m": {
-        "value": "24",
-        "type": "spacing"
-      },
-      "l": {
-        "value": "32",
-        "type": "spacing"
-      },
-      "xl": {
-        "value": "40",
-        "type": "spacing"
-      },
-      "xxl": {
-        "value": "48",
-        "type": "spacing"
-      },
-      "xxxl": {
-        "value": "56",
-        "type": "spacing"
-      }
-    }
-  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "mds",
-      "Spacing"
+      "mds"
     ]
   }
 }
