@@ -1,0 +1,241 @@
+@import url(font.css);
+
+.font-style-01xs-regular {
+  font-family: var(--mds-webfont-font-family-web);
+  letter-spacing: var(--mds-webfont-letter-spacing-normal);
+  text-decoration: var(--mds-webfont-text-decoration-none);
+  text-transform: var(--mds-webfont-text-case-none);
+  font-weight: var(--mds-webfont-font-weight-regular) ;
+  line-height: var(--mds-webfont-line-height-xs);
+  font-size: var(--mds-webfont-font-size-xs);
+}
+
+.font-style-01xs-medium {
+  font-family: var(--mds-webfont-font-family-web);
+  letter-spacing: var(--mds-webfont-letter-spacing-normal);
+  text-decoration: var(--mds-webfont-text-decoration-none);
+  text-transform: var(--mds-webfont-text-case-none);
+  font-weight: var(--mds-webfont-font-weight-medium);
+  line-height: var(--mds-webfont-line-height-xs);
+  font-size: var(--mds-webfont-font-size-xs);
+}
+
+.font-style-01xs-bold {
+  font-family: var(--mds-webfont-font-family-web);
+  letter-spacing: var(--mds-webfont-letter-spacing-normal);
+  text-decoration: var(--mds-webfont-text-decoration-none);
+  text-transform: var(--mds-webfont-text-case-none);
+  font-weight: var(--mds-webfont-font-weight-bold);
+  line-height: var(--mds-webfont-line-height-xs);
+  font-size: var(--mds-webfont-font-size-xs);
+}
+
+.font-style-02s-regular {
+  font-family: var(--mds-webfont-font-family-web);
+  letter-spacing: var(--mds-webfont-letter-spacing-normal);
+  text-decoration: var(--mds-webfont-text-decoration-none);
+  text-transform: var(--mds-webfont-text-case-none);
+  font-weight: var(--mds-webfont-font-weight-regular);
+  line-height: var(--mds-webfont-line-height-s);
+  font-size: var(--mds-webfont-font-size-s);
+}
+
+.font-style-02s-medium {
+  font-family: var(--mds-webfont-font-family-web);
+  letter-spacing: var(--mds-webfont-letter-spacing-normal);
+  text-decoration: var(--mds-webfont-text-decoration-none);
+  text-transform: var(--mds-webfont-text-case-none);
+  font-weight: var(--mds-webfont-font-weight-medium);
+  line-height: var(--mds-webfont-line-height-s);
+  font-size: var(--mds-webfont-font-size-s);
+}
+
+.font-style-02s-bold {
+  font-family: var(--mds-webfont-font-family-web);
+  letter-spacing: var(--mds-webfont-letter-spacing-normal);
+  text-decoration: var(--mds-webfont-text-decoration-none);
+  text-transform: var(--mds-webfont-text-case-none);
+  font-weight: var(--mds-webfont-font-weight-bold);
+  line-height: var(--mds-webfont-line-height-s);
+  font-size: var(--mds-webfont-font-size-s);
+}
+
+.font-style-02s-link {
+  font-family: var(--mds-webfont-font-family-web);
+  letter-spacing: var(--mds-webfont-letter-spacing-normal);
+  text-decoration: var(--mds-webfont-text-decoration-underline);
+  text-transform: var(--mds-webfont-text-case-none);
+  font-weight: var(--mds-webfont-font-weight-regular);
+  line-height: var(--mds-webfont-line-height-s);
+  font-size: var(--mds-webfont-font-size-s);
+}
+
+.font-style-03m-regular {
+  font-family: var(--mds-webfont-font-family-web);
+  letter-spacing: var(--mds-webfont-letter-spacing-normal);
+  text-decoration: var(--mds-webfont-text-decoration-none);
+  text-transform: var(--mds-webfont-text-case-none);
+  font-weight: var(--mds-webfont-font-weight-regular);
+  line-height: var(--mds-webfont-line-height-m);
+  font-size: var(--mds-webfont-font-size-m);
+}
+
+.font-style-03m-medium {
+  font-family: var(--mds-webfont-font-family-web);
+  letter-spacing: var(--mds-webfont-letter-spacing-normal);
+  text-decoration: var(--mds-webfont-text-decoration-none);
+  text-transform: var(--mds-webfont-text-case-none);
+  font-weight: var(--mds-webfont-font-weight-medium);
+  line-height: var(--mds-webfont-line-height-m);
+  font-size: var(--mds-webfont-font-size-m);
+}
+
+.font-style-03m-bold {
+  font-family: var(--mds-webfont-font-family-web);
+  letter-spacing: var(--mds-webfont-letter-spacing-normal);
+  text-decoration: var(--mds-webfont-text-decoration-none);
+  text-transform: var(--mds-webfont-text-case-none);
+  font-weight: var(--mds-webfont-font-weight-bold);
+  line-height: var(--mds-webfont-line-height-m);
+  font-size: var(--mds-webfont-font-size-m);
+}
+
+.font-style-03m-link {
+  font-family: var(--mds-webfont-font-family-web);
+  letter-spacing: var(--mds-webfont-letter-spacing-normal);
+  text-decoration: var(--mds-webfont-text-decoration-underline);
+  text-transform: var(--mds-webfont-text-case-none);
+  font-weight: var(--mds-webfont-font-weight-regular);
+  line-height: var(--mds-webfont-line-height-m);
+  font-size: var(--mds-webfont-font-size-m);
+}
+
+.font-style-04l-regular {
+  font-family: var(--mds-webfont-font-family-web);
+  letter-spacing: var(--mds-webfont-letter-spacing-normal);
+  text-decoration: var(--mds-webfont-text-decoration-none);
+  text-transform: var(--mds-webfont-text-case-none);
+  font-weight: var(--mds-webfont-font-weight-regular);
+  line-height: var(--mds-webfont-line-height-l);
+  font-size: var(--mds-webfont-font-size-l);
+}
+
+.font-style-04l-medium {
+  font-family: var(--mds-webfont-font-family-web);
+  letter-spacing: var(--mds-webfont-letter-spacing-normal);
+  text-decoration: var(--mds-webfont-text-decoration-none);
+  text-transform: var(--mds-webfont-text-case-none);
+  font-weight: var(--mds-webfont-font-weight-medium);
+  line-height: var(--mds-webfont-line-height-l);
+  font-size: var(--mds-webfont-font-size-l);
+}
+
+.font-style-04l-bold {
+  font-family: var(--mds-webfont-font-family-web);
+  letter-spacing: var(--mds-webfont-letter-spacing-normal);
+  text-decoration: var(--mds-webfont-text-decoration-none);
+  text-transform: var(--mds-webfont-text-case-none);
+  font-weight: var(--mds-webfont-font-weight-bold);
+  line-height: var(--mds-webfont-line-height-l);
+  font-size: var(--mds-webfont-font-size-l);
+}
+
+.font-style-04l-link {
+  font-family: var(--mds-webfont-font-family-web);
+  letter-spacing: var(--mds-webfont-letter-spacing-normal);
+  text-decoration: var(--mds-webfont-text-decoration-underline);
+  text-transform: var(--mds-webfont-text-case-none);
+  font-weight: var(--mds-webfont-font-weight-regular);
+  line-height: var(--mds-webfont-line-height-l);
+  font-size: var(--mds-webfont-font-size-l);
+}
+
+.font-style-05xl-regular {
+  font-family: var(--mds-webfont-font-family-web);
+  letter-spacing: var(--mds-webfont-letter-spacing-normal);
+  text-decoration: var(--mds-webfont-text-decoration-none);
+  text-transform: var(--mds-webfont-text-case-none);
+  font-weight: var(--mds-webfont-font-weight-regular);
+  line-height: var(--mds-webfont-line-height-xl);
+  font-size: var(--mds-webfont-font-size-xl);
+}
+
+.font-style-05xl-medium {
+  font-family: var(--mds-webfont-font-family-web);
+  letter-spacing: var(--mds-webfont-letter-spacing-normal);
+  text-decoration: var(--mds-webfont-text-decoration-none);
+  text-transform: var(--mds-webfont-text-case-none);
+  font-weight: var(--mds-webfont-font-weight-medium);
+  line-height: var(--mds-webfont-line-height-xl);
+  font-size: var(--mds-webfont-font-size-xl);
+}
+
+.font-style-05xl-bold {
+  font-family: var(--mds-webfont-font-family-web);
+  letter-spacing: var(--mds-webfont-letter-spacing-normal);
+  text-decoration: var(--mds-webfont-text-decoration-none);
+  text-transform: var(--mds-webfont-text-case-none);
+  font-weight: var(--mds-webfont-font-weight-bold);
+  line-height: var(--mds-webfont-line-height-xl);
+  font-size: var(--mds-webfont-font-size-xl);
+}
+
+.font-style-06xxl-regular {
+  font-family: var(--mds-webfont-font-family-web);
+  letter-spacing: var(--mds-webfont-letter-spacing-small);
+  text-decoration: var(--mds-webfont-text-decoration-none);
+  text-transform: var(--mds-webfont-text-case-none);
+  font-weight: var(--mds-webfont-font-weight-regular);
+  line-height: var(--mds-webfont-line-height-xxl);
+  font-size: var(--mds-webfont-font-size-xxl);
+}
+
+.font-style-06xxl-medium {
+  font-family: var(--mds-webfont-font-family-web);
+  letter-spacing: var(--mds-webfont-letter-spacing-small);
+  text-decoration: var(--mds-webfont-text-decoration-none);
+  text-transform: var(--mds-webfont-text-case-none);
+  font-weight: var(--mds-webfont-font-weight-medium);
+  line-height: var(--mds-webfont-line-height-xxl);
+  font-size: var(--mds-webfont-font-size-xxl);
+}
+
+.font-style-06xxl-bold {
+  font-family: var(--mds-webfont-font-family-web);
+  letter-spacing: var(--mds-webfont-letter-spacing-small);
+  text-decoration: var(--mds-webfont-text-decoration-none);
+  text-transform: var(--mds-webfont-text-case-none);
+  font-weight: var(--mds-webfont-font-weight-bold);
+  line-height: var(--mds-webfont-line-height-xxl);
+  font-size: var(--mds-webfont-font-size-xxl);
+}
+
+.font-style-07xxxl-regular {
+  font-family: var(--mds-webfont-font-family-web);
+  letter-spacing: var(--mds-webfont-letter-spacing-smaller);
+  text-decoration: var(--mds-webfont-text-decoration-none);
+  text-transform: var(--mds-webfont-text-case-none);
+  font-weight: var(--mds-webfont-font-weight-regular);
+  line-height: var(--mds-webfont-line-height-xxxl);
+  font-size: var(--mds-webfont-font-size-xxxl);
+}
+
+.font-style-07xxxl-medium {
+  font-family: var(--mds-webfont-font-family-web);
+  letter-spacing: var(--mds-webfont-letter-spacing-smaller);
+  text-decoration: var(--mds-webfont-text-decoration-none);
+  text-transform: var(--mds-webfont-text-case-none);
+  font-weight: var(--mds-webfont-font-weight-medium);
+  line-height: var(--mds-webfont-line-height-xxxl);
+  font-size: var(--mds-webfont-font-size-xxxl);
+}
+
+.font-style-07xxxl-bold {
+  font-family: var(--mds-webfont-font-family-web);
+  letter-spacing: var(--mds-webfont-letter-spacing-smaller);
+  text-decoration: var(--mds-webfont-text-decoration-none);
+  text-transform: var(--mds-webfont-text-case-none);
+  font-weight: var(--mds-webfont-font-weight-bold);
+  line-height: var(--mds-webfont-line-height-xxxl);
+  font-size: var(--mds-webfont-font-size-xxxl);
+}

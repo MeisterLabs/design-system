@@ -1,0 +1,63 @@
+@import url(./packages/foundations/colors/colors.css);
+@import url(./packages/foundations/font/font.css);
+
+
+div{
+    display: flex;
+}
+
+#font_container, #color_container{
+    flex-direction: row;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between;
+}
+
+#font_container > div{
+    flex-direction: column;
+    text-align: center;
+    padding: 24px;
+}
+
+#color_container > div{
+    width: 64px;
+    height: 64px;
+}
+
+.sky{
+    background-color: var(--mds-colors-default-sky);
+}
+.blue{
+    background-color: var(--mds-colors-default-blue);
+}
+.navy{
+    background-color: var(--mds-colors-default-navy);
+}
+.cyan{
+    background-color: var(--mds-colors-default-cyan);
+}
+.grass{
+    background-color: var(--mds-colors-default-grass);
+}
+.green{
+    background-color: var(--mds-colors-default-green);
+}
+.purple{
+    background-color: var(--mds-colors-default-purple);
+}
+.pink{
+    background-color: var(--mds-colors-default-pink);
+}
+.red{
+    background-color: var(--mds-colors-default-red);
+}
+.orange{
+    background-color: var(--mds-colors-default-orange);
+}
+.yellow{
+    background-color: var(--mds-colors-default-yellow);
+}
+.banana{
+    background-color: var(--mds-colors-default-banana);
+}
