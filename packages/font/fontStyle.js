@@ -1,29 +1,3 @@
-import { MdsWebfontFontFamilyWeb,
-    MdsWebfontLineHeightXs,
-    MdsWebfontLineHeightS,
-    MdsWebfontLineHeightM,
-    MdsWebfontLineHeightL,
-    MdsWebfontLineHeightXl,
-    MdsWebfontLineHeightXxl,
-    MdsWebfontLineHeightXxxl,
-    MdsWebfontFontWeightRegular,
-    MdsWebfontFontWeightMedium,
-    MdsWebfontFontWeightBold,
-    MdsWebfontFontSizeXs,
-    MdsWebfontFontSizeS,
-    MdsWebfontFontSizeM,
-    MdsWebfontFontSizeL,
-    MdsWebfontFontSizeXl,
-    MdsWebfontFontSizeXxl,
-    MdsWebfontFontSizeXxxl,
-    MdsWebfontLetterSpacingNormal,
-    MdsWebfontLetterSpacingSmall,
-    MdsWebfontLetterSpacingSmaller,
-    MdsWebfontParagraphSpacingNormal,
-    MdsWebfontTextCaseNone,
-    MdsWebfontTextDecorationNone,
-    MdsWebfontTextDecorationUnderline } from 'font.js';
-
 export const MdsFontStyle01xsRegular = {fontFamily:MdsWebfontFontFamilyWeb,fontWeight:MdsWebfontFontWeightRegular,lineHeight:MdsWebfontLineHeightXs,fontSize:MdsWebfontFontSizeXs,letterSpacing:MdsWebfontLetterSpacingNormal,paragraphSpacing:MdsWebfontParagraphSpacingNormal,textCase:MdsWebfontTextCaseNone,textDecoration:MdsWebfontTextDecorationNone};
 export const MdsFontStyle01xsMedium = {fontFamily:MdsWebfontFontFamilyWeb,fontWeight:MdsWebfontFontWeightMedium,lineHeight:MdsWebfontLineHeightXs,fontSize:MdsWebfontFontSizeXs,letterSpacing:MdsWebfontLetterSpacingNormal,paragraphSpacing:MdsWebfontParagraphSpacingNormal,textCase:MdsWebfontTextCaseNone,textDecoration:MdsWebfontTextDecorationNone};
 export const MdsFontStyle01xsBold = {fontFamily:MdsWebfontFontFamilyWeb,fontWeight:MdsWebfontFontWeightBold,lineHeight:MdsWebfontLineHeightXs,fontSize:MdsWebfontFontSizeXs,letterSpacing:MdsWebfontLetterSpacingNormal,paragraphSpacing:MdsWebfontParagraphSpacingNormal,textCase:MdsWebfontTextCaseNone,textDecoration:MdsWebfontTextDecorationNone};
