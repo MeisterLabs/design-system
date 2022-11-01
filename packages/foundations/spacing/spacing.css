@@ -1,0 +1,14 @@
+/**
+ * Do not edit directly
+ * Generated on Tue, 01 Nov 2022 14:57:19 GMT
+ */
+
+:root {
+  --mds-spacing-xs: 8px;
+  --mds-spacing-xxxl: calc(var(--mds-spacing-xs)*7);
+  --mds-spacing-xxl: calc(var(--mds-spacing-xs)*6);
+  --mds-spacing-xl: calc(var(--mds-spacing-xs)*5);
+  --mds-spacing-l: calc(var(--mds-spacing-xs)*4);
+  --mds-spacing-m: calc(var(--mds-spacing-xs)*3);
+  --mds-spacing-s: calc(var(--mds-spacing-xs)*2);
+}

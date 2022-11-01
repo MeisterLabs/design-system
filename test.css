@@ -1,6 +1,6 @@
 @import url(./packages/foundations/colors/colors.css);
 @import url(./packages/foundations/font/font.css);
-
+@import url(./packages/foundations/spacing/spacing.css);
 
 div{
     display: flex;
@@ -8,7 +8,7 @@ div{
 
 #font_container, #color_container{
     flex-direction: row;
-    width: 50%;
+    width: 75%;
     margin-left: auto;
     margin-right: auto;
     justify-content: space-between;
@@ -17,7 +17,7 @@ div{
 #font_container > div{
     flex-direction: column;
     text-align: center;
-    padding: 24px;
+    padding: var(--mds-spacing-l);
 }
 
 #color_container > div{
