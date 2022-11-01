@@ -1,5 +1,5 @@
 node_modules
-tokens
+packages/foundations/tokens
 package-lock.json
 package.json
 build.js
