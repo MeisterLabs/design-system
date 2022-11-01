@@ -712,7 +712,7 @@
         }
       }
     },
-    "fontStyle":{
+    "fontStyle": {
       "01xs": {
         "regular": {
           "value": {
@@ -1054,6 +1054,36 @@
           "value": "fontStyle",
           "type": "other"
         }
+      }
+    },
+    "spacing": {
+      "xs": {
+        "value": "8",
+        "type": "spacing"
+      },
+      "s": {
+        "value": "{spacing.xs}*2",
+        "type": "spacing"
+      },
+      "m": {
+        "value": "{spacing.xs}*3",
+        "type": "spacing"
+      },
+      "l": {
+        "value": "{spacing.xs}*4",
+        "type": "spacing"
+      },
+      "xl": {
+        "value": "{spacing.xs}*5",
+        "type": "spacing"
+      },
+      "xxl": {
+        "value": "{spacing.xs}*6",
+        "type": "spacing"
+      },
+      "xxxl": {
+        "value": "{spacing.xs}*7",
+        "type": "spacing"
       }
     }
   },
