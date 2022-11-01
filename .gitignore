@@ -1,6 +1,6 @@
 node_modules
+tokens
 package-lock.json
 package.json
 build.js
 config.js
-tokens
