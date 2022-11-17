@@ -1,7 +1,140 @@
 {
-    "wordpress":{
-        "fonts":{
-            
-        }
+  "wordpress": {
+    "fontFamilies": {
+      "avenir": {
+        "value": "Avenir",
+        "type": "fontFamilies"
+      }
+    },
+    "lineHeights": {
+      "0": {
+        "value": "84",
+        "type": "lineHeights"
+      },
+      "1": {
+        "value": "38.4",
+        "type": "lineHeights"
+      },
+      "2": {
+        "value": "29.4",
+        "type": "lineHeights"
+      }
+    },
+    "fontWeights": {
+      "avenir-0": {
+        "value": "Heavy",
+        "type": "fontWeights"
+      },
+      "avenir-1": {
+        "value": "Medium",
+        "type": "fontWeights"
+      }
+    },
+    "fontSize": {
+      "0": {
+        "value": "21",
+        "type": "fontSizes"
+      },
+      "1": {
+        "value": "32",
+        "type": "fontSizes"
+      },
+      "2": {
+        "value": "80",
+        "type": "fontSizes"
+      }
+    },
+    "letterSpacing": {
+      "0": {
+        "value": "-2.5%",
+        "type": "letterSpacing"
+      },
+      "1": {
+        "value": "-1%",
+        "type": "letterSpacing"
+      }
+    },
+    "paragraphSpacing": {
+      "0": {
+        "value": "0",
+        "type": "paragraphSpacing"
+      }
+    },
+    "Wordpress": {
+      "h1": {
+        "value": {
+          "fontFamily": "{fontFamilies.avenir}",
+          "fontWeight": "{fontWeights.avenir-0}",
+          "lineHeight": "{lineHeights.0}",
+          "fontSize": "{fontSize.2}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      },
+      "h2": {
+        "value": {
+          "fontFamily": "{fontFamilies.avenir}",
+          "fontWeight": "{fontWeights.avenir-1}",
+          "lineHeight": "{lineHeights.1}",
+          "fontSize": "{fontSize.1}",
+          "letterSpacing": "{letterSpacing.1}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      },
+      "h3": {
+        "value": {
+          "fontFamily": "{fontFamilies.avenir}",
+          "fontWeight": "{fontWeights.avenir-1}",
+          "lineHeight": "{lineHeights.1}",
+          "fontSize": "{fontSize.1}",
+          "letterSpacing": "{letterSpacing.1}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      },
+      "h4": {
+        "value": {
+          "fontFamily": "{fontFamilies.avenir}",
+          "fontWeight": "{fontWeights.avenir-0}",
+          "lineHeight": "{lineHeights.2}",
+          "fontSize": "{fontSize.0}",
+          "letterSpacing": "{letterSpacing.1}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      }
+    },
+    "textCase": {
+      "none": {
+        "value": "none",
+        "type": "textCase"
+      }
+    },
+    "textDecoration": {
+      "none": {
+        "value": "none",
+        "type": "textDecoration"
+      }
     }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "wordpress"
+    ]
+  }
 }
