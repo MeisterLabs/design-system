@@ -18,6 +18,10 @@
       "2": {
         "value": "29.4",
         "type": "lineHeights"
+      },
+      "3": {
+        "value": "70",
+        "type": "lineHeights"
       }
     },
     "fontWeights": {
@@ -42,6 +46,10 @@
       "2": {
         "value": "80",
         "type": "fontSizes"
+      },
+      "3": {
+        "value": "60",
+        "type": "fontSizes"
       }
     },
     "letterSpacing": {
@@ -51,6 +59,10 @@
       },
       "1": {
         "value": "-1%",
+        "type": "letterSpacing"
+      },
+      "2": {
+        "value": "-1.5%",
         "type": "letterSpacing"
       }
     },
@@ -110,6 +122,20 @@
           "lineHeight": "{lineHeights.2}",
           "fontSize": "{fontSize.0}",
           "letterSpacing": "{letterSpacing.1}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      },
+      "h2bis": {
+        "value": {
+          "fontFamily": "{fontFamilies.avenir}",
+          "fontWeight": "{fontWeights.avenir-0}",
+          "lineHeight": "{lineHeights.3}",
+          "fontSize": "{fontSize.3}",
+          "letterSpacing": "{letterSpacing.2}",
           "paragraphSpacing": "{paragraphSpacing.0}",
           "paragraphIndent": "{paragraphIndent.0}",
           "textCase": "{textCase.none}",
