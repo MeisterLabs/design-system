@@ -1085,14 +1085,6 @@
         "value": "calc({mds.spacing.xs}*7)",
         "type": "spacing"
       }
-    },
-    "Default": {
-      "value": "30",
-      "type": "borderRadius"
-    },
-    "Larger": {
-      "value": "{Default}*3",
-      "type": "borderRadius"
     }
   },
   "$themes": [],
