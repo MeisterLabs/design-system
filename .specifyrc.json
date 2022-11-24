@@ -15,7 +15,9 @@
       },
       "parsers": [
         {
-          "name": "kebabcasify"
+          "name": "kebabcasify",
+          "name": "to-css-custom-properties"
+
         },
         {
           "name": "to-style-dictionary",
