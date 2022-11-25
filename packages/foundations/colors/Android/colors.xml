@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 23 Nov 2022 15:39:09 GMT
+  Generated on Fri, 25 Nov 2022 08:15:48 GMT
 -->
 <resources>
   <color name="color_navy_navy_000">#ffe2f2ff</color>
@@ -129,19 +129,19 @@
   <color name="color_opacity_w75">#bfffffff</color>
   <color name="color_opacity_w80">#ccffffff</color>
   <color name="color_opacity_w95">#f2ffffff</color>
-  <color name="color_default_sky">#e6f7ff</color>
-  <color name="color_default_banana">#fff2b3</color>
-  <color name="color_default_blue">#00aa11</color>
-  <color name="color_default_navy">#4070ff</color>
-  <color name="color_default_cyan">#2ed7d8</color>
-  <color name="color_default_grass">#96db0b</color>
-  <color name="color_default_green">#3dcc3d</color>
-  <color name="color_default_yellow">#ffd426</color>
-  <color name="color_default_orange">#ffaa00</color>
-  <color name="color_default_red">#d42d20</color>
-  <color name="color_default_pink">#f7578c</color>
-  <color name="color_default_purple">#a179f2</color>
-  <color name="color_default_black">#000000</color>
-  <color name="color_default_white">#ffffff</color>
+  <color name="color_default_sky">#ffe6f7ff</color>
+  <color name="color_default_banana">#fffff2b3</color>
+  <color name="color_default_blue">#ff00aa11</color>
+  <color name="color_default_navy">#ff4070ff</color>
+  <color name="color_default_cyan">#ff2ed7d8</color>
+  <color name="color_default_grass">#ff96db0b</color>
+  <color name="color_default_green">#ff3dcc3d</color>
+  <color name="color_default_yellow">#ffffd426</color>
+  <color name="color_default_orange">#ffffaa00</color>
+  <color name="color_default_red">#ffd42d20</color>
+  <color name="color_default_pink">#fff7578c</color>
+  <color name="color_default_purple">#ffa179f2</color>
+  <color name="color_default_black">#ff000000</color>
+  <color name="color_default_white">#ffffffff</color>
   
 </resources>

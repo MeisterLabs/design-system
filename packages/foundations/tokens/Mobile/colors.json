@@ -535,59 +535,59 @@
     },
     "Default": {
       "Sky": {
-        "value": "{mds.colors.Blue.Blue-000}",
+        "value": "{color.Blue.Blue-000}",
         "type": "color"
       },
       "Banana": {
-        "value": "{mds.colors.Yellow.Yellow-100}",
+        "value": "{color.Yellow.Yellow-100}",
         "type": "color"
       },
       "Blue": {
-        "value": "{mds.colors.Blue.Blue-500}",
+        "value": "{color.Blue.Blue-500}",
         "type": "color"
       },
       "Navy": {
-        "value": "{mds.colors.Navy.Navy-500}",
+        "value": "{color.Navy.Navy-500}",
         "type": "color"
       },
       "Cyan": {
-        "value": "{mds.colors.Cyan.Cyan-500}",
+        "value": "{color.Cyan.Cyan-500}",
         "type": "color"
       },
       "Grass": {
-        "value": "{mds.colors.Grass.Grass-500}",
+        "value": "{color.Grass.Grass-500}",
         "type": "color"
       },
       "Green": {
-        "value": "{mds.colors.Green.Green-500}",
+        "value": "{color.Green.Green-500}",
         "type": "color"
       },
       "Yellow": {
-        "value": "{mds.colors.Yellow.Yellow-500}",
+        "value": "{color.Yellow.Yellow-500}",
         "type": "color"
       },
       "Orange": {
-        "value": "{mds.colors.Orange.Orange-500}",
+        "value": "{color.Orange.Orange-500}",
         "type": "color"
       },
       "Red": {
-        "value": "{mds.colors.Red.Red-600}",
+        "value": "{color.Red.Red-600}",
         "type": "color"
       },
       "Pink": {
-        "value": "{mds.colors.Pink.Pink-500}",
+        "value": "{color.Pink.Pink-500}",
         "type": "color"
       },
       "Purple": {
-        "value": "{mds.colors.Purple.Purple-500}",
+        "value": "{color.Purple.Purple-500}",
         "type": "color"
       },
       "Black": {
-        "value": "{mds.colors.Grey.Grey-1000}",
+        "value": "{color.Grey.Grey-1000}",
         "type": "color"
       },
       "White": {
-        "value": "{mds.colors.Grey.Grey-000}",
+        "value": "{color.Grey.Grey-000}",
         "type": "color"
       }
     }
