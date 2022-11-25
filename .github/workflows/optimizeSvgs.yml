@@ -4,7 +4,7 @@ on:
     paths:
       - 'packages/foundations/icons/**' # Only trigger on SVGs folder
     branches-ignore:
-      - master
+      - main
 jobs:
   svgs:
     name: SVGs
