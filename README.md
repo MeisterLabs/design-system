@@ -1,5 +1,5 @@
 
-![Logo](https://zeroheight.s3.eu-west-1.amazonaws.com/zeroheight-huddle/logos/81302/82868/logo.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3AVNYHQK4QFFEFF5%2F20221029%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20221029T075306Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=2355f2d6a470e43e42f33fbfea1493c3172bfc9806ee80eebfc329802b1403be)
+![Logo](https://github.com/MeisterLabs/design-system/tree/main/.github/Pictures/Cover.png)
 
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) [![release](https://badgen.net/github/release/MeisterLabs/design-system)](https://badgen.net/github/release/MeisterLabs/design-system)
