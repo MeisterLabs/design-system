@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/MeisterLabs/design-system/tree/main/.github/Pictures/Cover.png)
+![Logo](https://github.com/MeisterLabs/design-system/blob/main/.github/Pictures/Cover.png)
 
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) [![release](https://badgen.net/github/release/MeisterLabs/design-system)](https://badgen.net/github/release/MeisterLabs/design-system)
