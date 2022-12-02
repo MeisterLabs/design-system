@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 25 Nov 2022 08:18:23 GMT
+// Generated on Fri, 02 Dec 2022 14:30:37 GMT
 
 
 import SwiftUI
