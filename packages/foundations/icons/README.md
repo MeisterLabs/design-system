@@ -6,10 +6,10 @@ Icons are divided into categories that you can constult also on [ZeroHeight](htt
 | ---          |   ---  |
 | Activities   |    ✅   |
 | Business     |    ✅   |
-| Creativity   |   🔜   |
-| Education    |   🔜   |
-| Food         |   🔜   |
-| Health       |   🔜   |
+| Creativity   |   🏗️   |
+| Education    |   🏗️   |
+| Food         |   🏗️   |
+| Health       |   🏗️   |
 | Nature       |   🔜   |
 | Objects      |   🔜   |
 | Personal     |   🔜   |
